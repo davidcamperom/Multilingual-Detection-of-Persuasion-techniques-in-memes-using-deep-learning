@@ -72,11 +72,11 @@ Esta guía proporciona un proceso paso a paso para ejecutar el programa. Sigue c
 - Usamos la columna de texto preprocesada para la ampliación de datos.
 
 ### 1.2. Reducción y Aumento de Datos
+- Realiza la reducción y aumento de datos basándose en los datos preprocesados.
 - Ejecuta el script de Python `data_downsampling_augmentation.py`, con el siguiente comando:
 ```terminal
 python3 data_downsampling_augmentation.py -t ./train_df.csv -n 600
 ```
-- Este script realiza la reducción y aumento de datos basándose en los datos preprocesados.
   
 ## 2. Fine-Tuning de los Modelos y Evaluación
 - Procede con el proceso de Fine-Tuning del modelo. Asegúrate de que todas las configuraciones necesarias estén establecidas antes de comenzar el ajuste fino.
