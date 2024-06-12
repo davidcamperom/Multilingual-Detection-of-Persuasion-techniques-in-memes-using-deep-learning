@@ -78,14 +78,14 @@ python3 data_downsampling_augmentation.py -t ./train_df.csv -n 600
 ```
 - Este script realiza la reducción y aumento de datos basándose en los datos preprocesados.
 
-## 2. Ajuste Fino del Modelo y Evaluación
+## 2. Fine-Tuning de los Modelos y Evaluación
 - Procede con el proceso de Fine-Tuning del modelo. Asegúrate de que todas las configuraciones necesarias estén establecidas antes de comenzar el ajuste fino.
 - Ejecuta el script `model_fine_tuning_evaluation.py` con el siguiente comando:
 ```terminal
 python3 ./scripts/model_fine_tuning_evaluation.py -train_name original_train -train ./data/preprocessed_datasets/train_df.csv -val ./data/preprocessed_datasets/validation_df.csv -dev ./data/preprocessed_datasets/dev_df.csv -test ./data/preprocessed_datasets/test_df.csv
 ```
 
-## 3. Ensamblaje
+## 3. Ensemble de los Modelos
 - Abre el Jupyter notebook `perform_ensemble.ipynb`.
 - Ejecuta todas las celdas del notebook para realizar el ensamblaje de diferentes modelos.
 
@@ -93,7 +93,7 @@ python3 ./scripts/model_fine_tuning_evaluation.py -train_name original_train -tr
 - Abre el Jupyter notebook `translate_test_files_to_en.ipynb`.
 - Ejecuta todas las celdas del notebook para traducir los archivos de prueba al inglés.
 
-## 5. Inferencia del Modelo Ajustado Finamente y Evaluación de Pruebas
+## 5. Inferencia sobre los Modelos Entrenados y Evaluación de Pruebas
 - Abre el Jupyter notebook `fine_tune_model_inference.ipynb`.
 - Ejecuta todas las celdas del notebook para evaluar el modelo en el conjunto de pruebas.
 
