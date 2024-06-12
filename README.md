@@ -3,8 +3,7 @@
 
 **Centro:** Escuela Técnica Superior de Ingeniería. Universidad de Huelva  
 **Titulación:** Grado en Ingeniería Informática  
-**Departamento:** Ingeniería de la Información y el Conocimiento  
-**Grupo de Investigación:** I2C-UHU
+**Grupo de Investigación:** Ingeniería de la Información y el Conocimiento (I2C-UHU)
 
 **Tutor 1:** Jacinto Mata Vázquez  
 **Tutor 2:** Victoria de la Pena Pachón Álvarez
