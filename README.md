@@ -72,7 +72,7 @@ Esta guía proporciona un proceso paso a paso para ejecutar el programa. Sigue c
 - Usamos la columna de texto preprocesada para la ampliación de datos.
 
 ### 1.2. Reducción y Aumento de Datos
-- Ejecuta el script de Python `data_downsampling_augmentation.py`.
+- Ejecuta el script de Python `data_downsampling_augmentation.py`, con el siguiente comando:
 ```terminal
 python3 data_downsampling_augmentation.py -t ./train_df.csv -n 600
 ```
