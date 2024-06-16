@@ -1,0 +1,1655 @@
+[
+    {
+        "id": "mk_memes_2",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_3",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_4",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_5",
+        "labels": [
+            "Name calling/Labeling",
+            "Glittering generalities (Virtue)",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_6",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_7",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_9",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_10",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_11",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_13",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_14",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Smears",
+            "Loaded Language",
+            "Doubt"
+        ]
+    },
+    {
+        "id": "mk_memes_15",
+        "labels": [
+            "Flag-waving"
+        ]
+    },
+    {
+        "id": "mk_memes_16",
+        "labels": [
+            "Doubt"
+        ]
+    },
+    {
+        "id": "mk_memes_17",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_19",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_20",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_21",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_22",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_23",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_25",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_26",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_28",
+        "labels": [
+            "Appeal to authority",
+            "Thought-terminating clich\u00e9",
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_29",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Flag-waving",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_30",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_31",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_32",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_33",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_34",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_35",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_36",
+        "labels": [
+            "Name calling/Labeling",
+            "Appeal to authority",
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_37",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_38",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_39",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_42",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Repetition",
+            "Smears",
+            "Exaggeration/Minimisation",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_43",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_45",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_46",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_47",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_48",
+        "labels": [
+            "Smears",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_49",
+        "labels": [
+            "Appeal to authority",
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_50",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_51",
+        "labels": [
+            "Thought-terminating clich\u00e9",
+            "Repetition",
+            "Exaggeration/Minimisation",
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_52",
+        "labels": [
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_53",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_54",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_55",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Repetition",
+            "Smears",
+            "Exaggeration/Minimisation"
+        ]
+    },
+    {
+        "id": "mk_memes_56",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_57",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_59",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_60",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_61",
+        "labels": [
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_62",
+        "labels": [
+            "Name calling/Labeling",
+            "Glittering generalities (Virtue)",
+            "Loaded Language",
+            "Smears",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_63",
+        "labels": [
+            "Appeal to authority",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_64",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Loaded Language",
+            "Repetition",
+            "Exaggeration/Minimisation",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_65",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_66",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_69",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Glittering generalities (Virtue)",
+            "Flag-waving",
+            "Loaded Language",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_70",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_71",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_72",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_73",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_74",
+        "labels": [
+            "Name calling/Labeling",
+            "Flag-waving",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_75",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_76",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_77",
+        "labels": [
+            "Whataboutism",
+            "Glittering generalities (Virtue)"
+        ]
+    },
+    {
+        "id": "mk_memes_78",
+        "labels": [
+            "Name calling/Labeling",
+            "Glittering generalities (Virtue)",
+            "Flag-waving",
+            "Repetition",
+            "Loaded Language",
+            "Smears",
+            "Exaggeration/Minimisation",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_79",
+        "labels": [
+            "Thought-terminating clich\u00e9",
+            "Loaded Language",
+            "Repetition",
+            "Smears",
+            "Exaggeration/Minimisation",
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_80",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_81",
+        "labels": [
+            "Loaded Language",
+            "Doubt"
+        ]
+    },
+    {
+        "id": "mk_memes_82",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_84",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_85",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_86",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_87",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_88",
+        "labels": [
+            "Smears",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_89",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_90",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_91",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_92",
+        "labels": [
+            "Smears",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_94",
+        "labels": [
+            "Thought-terminating clich\u00e9",
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_95",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_96",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_100",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_101",
+        "labels": [
+            "Loaded Language",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_102",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_103",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_104",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_105",
+        "labels": [
+            "Glittering generalities (Virtue)"
+        ]
+    },
+    {
+        "id": "mk_memes_106",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_109",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_110",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_111",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_112",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_113",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_116",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_117",
+        "labels": [
+            "Smears",
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship",
+            "Doubt"
+        ]
+    },
+    {
+        "id": "mk_memes_119",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_121",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_122",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_123",
+        "labels": [
+            "Smears",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_124",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_125",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_126",
+        "labels": [
+            "Name calling/Labeling",
+            "Glittering generalities (Virtue)",
+            "Repetition",
+            "Smears",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_127",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_129",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_130",
+        "labels": [
+            "Appeal to authority",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_131",
+        "labels": [
+            "Thought-terminating clich\u00e9",
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_132",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_133",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_134",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Thought-terminating clich\u00e9",
+            "Loaded Language",
+            "Repetition",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_138",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_139",
+        "labels": [
+            "Whataboutism",
+            "Flag-waving",
+            "Smears",
+            "Doubt"
+        ]
+    },
+    {
+        "id": "mk_memes_140",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_141",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_143",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_144",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_146",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_147",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_148",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_149",
+        "labels": [
+            "Thought-terminating clich\u00e9",
+            "Loaded Language",
+            "Repetition",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_150",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_152",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_153",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_154",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_156",
+        "labels": [
+            "Smears",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_158",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_159",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_160",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_161",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_162",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_163",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_164",
+        "labels": [
+            "Name calling/Labeling",
+            "Flag-waving",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_165",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_166",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_167",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_168",
+        "labels": [
+            "Thought-terminating clich\u00e9",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_169",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_170",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_171",
+        "labels": [
+            "Smears",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_172",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_174",
+        "labels": [
+            "Name calling/Labeling",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_177",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_178",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_179",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_180",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_181",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_182",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_185",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_188",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_189",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_191",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_193",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_194",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_195",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_196",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears",
+            "Exaggeration/Minimisation",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_197",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_199",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_200",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_202",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_203",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_204",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_205",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_206",
+        "labels": [
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_207",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Flag-waving",
+            "Smears",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_208",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_209",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_210",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_211",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_212",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_213",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_214",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_216",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_218",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_222",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_223",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_224",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_225",
+        "labels": [
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "mk_memes_226",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_227",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_228",
+        "labels": [
+            "Smears",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_229",
+        "labels": [
+            "Name calling/Labeling",
+            "Appeal to authority",
+            "Glittering generalities (Virtue)",
+            "Thought-terminating clich\u00e9",
+            "Flag-waving",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_231",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_232",
+        "labels": [
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_233",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_236",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_237",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_239",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_240",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_242",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_243",
+        "labels": [
+            "Name calling/Labeling",
+            "Appeal to authority"
+        ]
+    },
+    {
+        "id": "mk_memes_245",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_246",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_248",
+        "labels": [
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_249",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_251",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_253",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_254",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_255",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_256",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_257",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_258",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_259",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_260",
+        "labels": [
+            "Appeal to fear/prejudice"
+        ]
+    },
+    {
+        "id": "mk_memes_261",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_262",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_263",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_264",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_265",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_266",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_267",
+        "labels": [
+            "Repetition",
+            "Black-and-white Fallacy/Dictatorship",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_268",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_269",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_270",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Exaggeration/Minimisation",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_271",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "mk_memes_272",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_273",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_274",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_276",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_277",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_278",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_279",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_280",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_281",
+        "labels": [
+            "Appeal to authority",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_282",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_283",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_284",
+        "labels": [
+            "Thought-terminating clich\u00e9",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_285",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_286",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_287",
+        "labels": [
+            "Loaded Language",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_288",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_289",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_290",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_291",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_293",
+        "labels": [
+            "Smears",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_294",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_296",
+        "labels": [
+            "Appeal to authority",
+            "Smears",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_297",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_298",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_299",
+        "labels": [
+            "Name calling/Labeling",
+            "Appeal to authority",
+            "Thought-terminating clich\u00e9",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_300",
+        "labels": [
+            "Name calling/Labeling",
+            "Exaggeration/Minimisation"
+        ]
+    },
+    {
+        "id": "mk_memes_302",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_303",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_304",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "mk_memes_305",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_307",
+        "labels": [
+            "Name calling/Labeling",
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_308",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_309",
+        "labels": [
+            "Flag-waving",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_310",
+        "labels": [
+            "Appeal to authority",
+            "Name calling/Labeling",
+            "Glittering generalities (Virtue)",
+            "Loaded Language",
+            "Exaggeration/Minimisation"
+        ]
+    },
+    {
+        "id": "mk_memes_311",
+        "labels": [
+            "Loaded Language",
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_313",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_314",
+        "labels": [
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "mk_memes_316",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_317",
+        "labels": []
+    },
+    {
+        "id": "mk_memes_318",
+        "labels": [
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "mk_memes_319",
+        "labels": [
+            "Appeal to authority",
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_321",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Flag-waving"
+        ]
+    },
+    {
+        "id": "mk_memes_323",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_324",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "mk_memes_325",
+        "labels": [
+            "Name calling/Labeling",
+            "Loaded Language",
+            "Smears"
+        ]
+    }
+]

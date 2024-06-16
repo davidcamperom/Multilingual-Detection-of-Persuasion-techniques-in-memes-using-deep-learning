@@ -1,0 +1,702 @@
+[
+    {
+        "id": "00407",
+        "text": "\nYour job is a surprise for your birthday. \nAnd the mercy of my parents, and don't even go through me.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00051",
+        "text": "Abdoun District polling centre",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00022",
+        "text": "\u266a When you're a foreign soldier and they send you to fight in Syria \u266a \u266a And there they meet with a groove \u266a \u266a And they wear jeans and sandals \u266a",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00573",
+        "text": "When you're back home late, your dad picks you up.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00005",
+        "text": "Israel\nMurder, demolition and arrests\n* Settlements\n== sync, corrected by elderman == @elder_man \n\u266a He stole the Palestinians' money \u266a\nFOR THE PALESTINIAN AUTHORITY \nWe'll reconsider our relationship with the Aristocrats.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00008",
+        "text": "Arab citizen\nGovernment \nSomething simple of his rights.\nGod let us go home and the leader of the country.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00079",
+        "text": "\u266a The Aquarius celebrates the Day of Tomorrow \u266a\nAn illusion that drowns people without infrastructure salaries is collapsing.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00368",
+        "text": "Susu my friend told me about your flaws that you couldn't see in you, you cheating bastard!\n\u266a Her sidekick \u266a\nLove you.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00506",
+        "text": "It's Corona de Dugle and La Six.\n And God, my daughter, as long as he's stressed over the whole world, he certainly keeps six six violins.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00318",
+        "text": "An Egyptian doctor heals her patients with hugs and hugs. \nNo, that's it. We're going. We're healing.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00405",
+        "text": "They put Dabadib on the chairs in Paris... as they guaranteed places... where you couldn't afford to keep people apart.\nIf that happens to us, here we go, take the teddy bear, and we'll run.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00027",
+        "text": "Beautiful Femenist. \nLess one to defend the men. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00404",
+        "text": "When Instagram worked alone, Riversh was in Post, and I was dead and read it.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00170",
+        "text": "Kwe Tien 2020, the Egyptians are not our partners, the homeland, and they are here to serve us.\nUncle Mubarak injected me. Uncle Mubarak. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00134",
+        "text": "One is not a married woman, five days later, and her father's house is resting.\nKitchen folks, they've got Finn.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00012",
+        "text": "When the unhappy Jordanian is in the middle of laughing at the jokes of the Lebanese demonstration, then he's remembered that his situation is worse than that of the Lebanese and that if he tries to go down to the street to get his most basic rights, all he gets is a blow from that brown gendarme stick.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00021",
+        "text": "Egypt\nIsrael is busy celebrating its holidays in October 1973. \nSyria ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00056",
+        "text": "Made for murder.\nMade for sedition.\nAnd sedition is more powerful than murder.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00050",
+        "text": "Yeah, for corruption... No fix!\nYour candidate is the Doctor. \nIssa Al-Samro",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00327",
+        "text": "I've been thinking about a filthy demon who's been in control of us all year.\n\nThe rise of one is already filthy, and the evil of the devil is with him.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00153",
+        "text": "The people who made the move, they're young, they're working for you, making an inventory of the group.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00049",
+        "text": "Why do you succeed in substance?\nYou're in it!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00020",
+        "text": "Cece.\nThe ancient Egyptian people.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00057",
+        "text": "My brother, the gem. You're the one who chooses who you are.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00073",
+        "text": "When the tax fund is paid to fund the USS NASA Challenger Project to brag about the world, but the ship explodes before it penetrates the US citizen's troposphere.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00032",
+        "text": "With this mouth, you're gonna name the most dog of faith.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00044",
+        "text": "Let's say you went to the Saudi Embassy.\nIsn't it a piece coming out?",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00081",
+        "text": "My guy who's involved, he's convincing us.\nOur satisfaction is his due, because his cousin died fighting the Houthi in the iron.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00479",
+        "text": "\n\u266a Your buddy \u266a\nYou're the one who said we have to work hard to make it work and get out of the early ones.\n\n\u266a Hey \u266a\nYou talk to teachers about starting classes, you idiot.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00061",
+        "text": "The most aware of what matters in life:",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00077",
+        "text": "The Egyptians. \nZodli Tom\u00e9, Master.\n The Turks and the Albanians.\n Walk away from the country... and you take our job... and you cut us to the top of our lives.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00460",
+        "text": "\nThe marriage, my brothers, is a Fashl project. \n\nGot Engaged Today\n\nShe stays like me and you. She stays at your age.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00004",
+        "text": "Doesn't mean that if I put Eddie on you or look over your chest by mistake or if I open up sex stuff in front of you, it's not like I'm a molester.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00055",
+        "text": "Arab Union Day...\nThey bombed Yemen.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00040",
+        "text": "Stephen Hawking: There's no evidence of God.\nAnd what's the conclusive evidence? \nGod, forgive me. I was one of the bad guys.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00222",
+        "text": "Someone God didn't give him any talent.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00028",
+        "text": "Minister of Education:\nAny question you know the answer to, write \"Cessie\" and take the class text.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00037",
+        "text": "Young people with hair like that have 125% potential for stealing your land.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00426",
+        "text": "Why are you so afraid of a pushover?\nJudaea Al-Dawd:\nI've concluded the research, folks. Very easy.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00084",
+        "text": "Goals of the Yemeni Revolution\nTargets without purpose.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00006",
+        "text": "The judge has the pierod.\nThe defendant's lawyer is trying to break the traffic light, trying to convince her that she's mitigating the death penalty.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00054",
+        "text": "The statues of the Greek gods.\nThe idols of the Arab God.\nThe Arabs, even the infidels, have their last taste.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00016",
+        "text": "The Waqf Chiefs are standing to protect the mosque.\nProtecting the mosque from prayer",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00125",
+        "text": "You animal, dog! You're gonna get rid of the Internet!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00083",
+        "text": "Public Electricity Corporation\nWe cut off the electricity for you as a precaution when the rains and storms of the throes come down to ensure your safety.\nThe people.\nZina and God Zina.\nDento's a cat.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00491",
+        "text": "China fully recovers from the Corona and warns its people not to travel to the infested countries.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00025",
+        "text": "Fiminist when you fall in love.\nI'm gonna shave my armpit for you.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00011",
+        "text": "\u266a A poor country like that \u266a \u266a Got an oil barbecue \u266a\n== sync, corrected by elderman == @elder_man\nWe're protecting you, in a country where you're attacked, and you're gone.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00001",
+        "text": "The Waqf Chiefs are standing to protect the mosque.\nProtecting the mosque from prayer",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00002",
+        "text": "Arab officials, after they fall on their people, now it's time to find anything to please the people, the Palestinian cause.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00076",
+        "text": "Blasphemy.\n And the more confidence you say... \n\"The Tobinks are sweeter than the Hohos.\"\n It's impossible to be sweeter because life has proved that it and God are sweeter than hobby.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00145",
+        "text": "Scientists can't hear the picture:\nImage",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00052",
+        "text": "It feels like you're in control.\nI don't know.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00080",
+        "text": "\u266a We're masculine \u266a\nMy buddies, Jayne, are playing at home.\n\u266a His mother \u266a\nPlaying plastic, right?\nPlaying plastic, right?",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00233",
+        "text": "Excuse me, mama, could I step on the button and pull the broom wire?\nGod is terrible. Our Lord blesses you in it.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00017",
+        "text": "You won't sink a ship. You're its leader.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00200",
+        "text": "90% of students attend the online lectures.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00039",
+        "text": "Enough fear of society.\nI have a mom who peels pomegranates.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00325",
+        "text": "There's no passport now. Our daughter's a dump.\n=...",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00035",
+        "text": "The woman will provoke you with her femininity and beauty.\nCareful, brother.\nA woman is a trick, and true love is Homez.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00490",
+        "text": "You'll have to forgive your injustice when we're on fire.\nA word that respects every need, but our Lord takes them.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00046",
+        "text": "Cost-of-living. \nPrice rise.\n Poor infrastructure\nGovernment + deputies\nA lousy citizen.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00406",
+        "text": "Who came to fix what others ruined...\nIt was the others who sold it. \"Yabasha's youth",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00058",
+        "text": "Settlers burning down a house in the village of Douma south of Nablus, killing a child (one and a half years) and seriously injuring his family.\nResponse of the Palestinian leadership\nShaiff all the Hudwell?\nBy hating you!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00482",
+        "text": "When I'm a rule with people, and I hear alone, by screwing a wrong conversation, I know right.\nAn invitation militia.\nAn invitation militia.\n An invitation militia. \nAn invitation militia.\n An invitation militia. \nAn invitation militia.\n An invitation militia.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00034",
+        "text": "The struggle of the Fiminist, which is a pioneer of Nate's. \nLightened by the invention of males from a device invented by males at a social networking site invented by males and on furniture made by males and at the cost of paying her father's wish for male insults.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00403",
+        "text": "Why do you say \"Wait a second\"? Give me a roast.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00024",
+        "text": "Let's say the number of women is 163569463.\nIgnore them like I ignored the number.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00009",
+        "text": "It says here that Jess is walking my worlds.\n His abdomen's walking. My world's symphony, huh?",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00082",
+        "text": "Is it true that as a Yemeni pharmacist you started researching the Corona virus?\nAnd for God's sake, Mana Darry, let me store.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00499",
+        "text": "This cat's life is so miserable and poor, he doesn't own a quarter of tuna.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00410",
+        "text": "I wouldn't sell my guys a song with my voice, and they'd say, \"I don't wanna sing anymore.\" \n- No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00275",
+        "text": "France has recorded new cases of the Corona virus, two of which are usually from Egypt.\nEgyptian Ministry of Health: God blows!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00183",
+        "text": "Imagine the difficulty of life when you're dumber than a pigeon.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00447",
+        "text": "I caught you in my dream all night last night.\nHow did you see me?\nUneducated.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00019",
+        "text": "That's what Naim prefers until the day of the test.\nAnd when he fell, the corrupt educational system said,",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00053",
+        "text": "Fighters demanding that the veil be removed under the slogan of a woman's right to show her beauty.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00483",
+        "text": "All the people Acracht and I hooked up in 2017.\nBut you and I are jinxed.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00047",
+        "text": "You don't know how to cook. And don't wash. It's like a day and a day and a 400-shot Indian show.\nI divorced her. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00409",
+        "text": "I want to watch the Blue Elephant. \n- Put on a blue dress standing in the mirror.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00003",
+        "text": "When Pottflika asks how long Renessa wants to spend for Algeria...",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00093",
+        "text": "Your news.\nMustafa Medboli\n My fellow ministers and I don't sleep to improve a citizen's life.\nYou guys go to sleep, and the living's gonna get better on its own.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00043",
+        "text": "I'm scared, buddy. I'm not a biologist.\nThe Egyptian woman is looking for the best way to divorce her husband and steal his children and his money.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00277",
+        "text": "Who sold us? Lost our shield.\nNo, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00048",
+        "text": "Woody, give it to Finn, Reese.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00112",
+        "text": "\nWe cling to study, science, and testimony, because it's the only thing that's coming to us from the Middle East.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00023",
+        "text": "Why do you want to invest my fates in support of Jaitech by setting up hatch farms and cucumbers in the Sudan?",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00078",
+        "text": "When the reformers paralyze you in the pool, and you're ignorant, and you turn out to be \"a young man whose heart hangs in the pool.\"\n And she shows up in Saheil.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00369",
+        "text": "The second semester will be cancelled in the event of an outbreak of violence. \nSo it's war.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00408",
+        "text": "My guess is, I did what I did in class.\n The stalker earns \u00a39,000 a month.\nHey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey... hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey... Focus. Stay.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00542",
+        "text": "My birth after you bullied on the planet's text.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00089",
+        "text": "President of France\nRetreats from the increase in fuel prices.\nAil al-Tahri...",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00244",
+        "text": "Get away from the man, you men's hook!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00541",
+        "text": "By hitting your best friend for a million dollars?\nMe:",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00042",
+        "text": "Girls: He's back in time because he's tied up with Alex Tanni. \nKids:-- \nMessenger of God, I'm in your back.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00060",
+        "text": "Teacher: What's wrong?\n ES: I'm me!\nTeacher: Well done and what else. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00234",
+        "text": "What does it mean to answer you 500 Gs to snore on a rat for me? ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00354",
+        "text": "God bless you, Grandpa. I was a violinist as a bear.\nSweet China.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00431",
+        "text": "\u266a Hey \u266a\nYou're in the middle of a ticket, loser.\n Doctor, if you'll excuse me, you slut!\nYou're mad at me, loser.\nDoctor, loser! Loser! Loser!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00030",
+        "text": "When you devote your life to making memes to making fun of others, then one day you spread a racist mem and everyone starts attacking you.\nWhen you're ever mad at me. \nRemember how happy you are in it.\n And thank you, Llankarin.",
+        "labels": [
+            "Smears"
+        ]
+    }
+]
