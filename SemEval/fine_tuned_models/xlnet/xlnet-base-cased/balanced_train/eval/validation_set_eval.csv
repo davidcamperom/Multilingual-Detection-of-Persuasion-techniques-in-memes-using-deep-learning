@@ -1,0 +1,10 @@
+,Name,Validation_value
+0,eval_loss,0.25188666582107544
+1,eval_roc_auc,0.7732114099945867
+2,eval_ap,0.4265195218228867
+3,eval_max_f1_score,0.4401748993642534
+4,eval_max_accuracy,0.174
+5,eval_runtime,8.5924
+6,eval_samples_per_second,58.191
+7,eval_steps_per_second,7.332
+8,epoch,5.0

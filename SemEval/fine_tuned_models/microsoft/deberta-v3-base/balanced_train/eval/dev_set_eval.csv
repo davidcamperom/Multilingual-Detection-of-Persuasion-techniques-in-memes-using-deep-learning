@@ -1,0 +1,10 @@
+,Name,Development_value
+0,eval_loss,0.2593245506286621
+1,eval_roc_auc,0.7543050677797403
+2,eval_ap,0.4122115053096327
+3,eval_max_f1_score,0.4342372516599494
+4,eval_max_accuracy,0.156
+5,eval_runtime,18.0463
+6,eval_samples_per_second,55.413
+7,eval_steps_per_second,6.927
+8,epoch,5.0

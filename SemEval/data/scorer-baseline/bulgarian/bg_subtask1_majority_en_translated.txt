@@ -1,0 +1,3054 @@
+[
+    {
+        "id": "bg_mk_memes_83",
+        "text": "DINNER\n\nArticle 4 (1) (a) (ii) (ii) and (iii) of CRR\n\nAMERICA FOR BULGARIA FOUNDATION\n\nProcopius, Hero... please.\n\nRun! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_104",
+        "text": "When I got vaccinated and went back to the country to see my parents:\n\nThe experts in Sofia are adamant that we should be vaccinated!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_106",
+        "text": "Ganya, vaccinate yourself, you fool!!\n\nGanya, are you out of your mind? Why do you vote for populists?! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_148",
+        "text": "Can't you work something normal like other people; other than American related to Bulgaria?",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_237",
+        "text": "No green certificate\n\nI've been vaccinated.\nThey forced me to.\n\nI have a green certificate. \nKostadin Kostadinov is always right. \n\nI'm against vaccines. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_246",
+        "text": "WALTER BEFORE: BROTHERS, MACEDONIA IS BULGARIAN TOGETHER WE'LL DELIVER TO THE COSMOS!\n\n\u266a Hero, give it all to the United States \u266a \u266a If you can \u266a \u266a In Shemgem, please \u266a ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_247",
+        "text": "A TRADE OFFER\n\ni Receive: \nVisas and Zhengen to \"leave Bulgaria Easier\n\nyou receive: \nWhatever you say. \n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_248",
+        "text": "Slavi Trifonov\n\nVISA FOR USA\n\nNATIONAL INTEREST BULGARIAN STORY ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_270",
+        "text": "WHEN YOU UNDERSTAND THAT RUSSIA INSTRUCTURING THE DEFINITELY VAXINATION.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_273",
+        "text": "Antivaxary\n\nHEALTH CRISIS \nMORATORIUM\n\nINFLUTION\n\nHERO\n\nKENNETH NATOKA\n\nMACEDONIA IN EC",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_275",
+        "text": "MACEDONIA IS BULGARIAN",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_286",
+        "text": "THE REUNICON I GET\n\nTHE RUNION I WANT",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_327",
+        "text": "Ukraine calls the Bulgarian Ambassador to Kiev, Turkey calls the Bulgarian Ambassador to Ankara: \n\nAt this time in Bulgaria: Enemies to the East, Enemies to the West. Enemies to the South, enemies to the North. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_342",
+        "text": "BEFORE THE SELECTORS: The Mangarov Antivaxer behind the Renaissance after the flirtation with the ABB\n\nMangerov found a new political port in \"Renaissance\"\n\nAssoc. Mangerov: The measures are pointless, the sick should be at home drinking tea\n\nAfter the election, there is no VIRUS, drink tea and it will pass. \n\nThe mob wants ladies to take the properties.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_349",
+        "text": "Who do you trust more?\n\nMINISTERITY OF HEALTH\n\ndog dressed as a doctor",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_353",
+        "text": "UNVAXINATED\n\nVACINATED\n\nINFORMED! RESPONSE! Vacinated! \n\nIMMUNISATION IS FREE AND CLOSE TO YOU ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_354",
+        "text": "THE HEALTH SYSTEM\n\nTHE BULGARIAN PEOPLE\n\n HEART SOUL, FOR BULGARIA!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_371",
+        "text": "BEFORE THE VACINA\n\nAFTER THE VACIN",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_375",
+        "text": "M3: Everywhere will be entered with green certificate\n\nBest I can do is kash of the system ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_376",
+        "text": "Boyko returns on a white horse\n\nThe Kopeika Enters Parliament\n\nEveryone blames the caretaker government for inflation.\n\nWE DID IT, CTOY!!!!! I'm getting out of here!! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_412",
+        "text": "BEFORE THE VACINA\n\nAFTER THE VACIN ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_417",
+        "text": "VARVARINA",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_422",
+        "text": "THE MACEDOANS\n\nREAL FACTS\n\nBULGARIAN STORY",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_429",
+        "text": "BOYKO VASSILEV VACATION \n\nINTERVIEW WITH SLAMI BACAN",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_441",
+        "text": "WHEN THE THIRD MANDATE IS IN BSP\n\nI serve the Soviet Union",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_446",
+        "text": "\"We're not putting in the cabinet proposal.\"\n\nThe newly formed Macedonian Center for Astronaut Training.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_447",
+        "text": "Is there no one to offer Kovid the Barbarian as prime minister?",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_458",
+        "text": "We always win the gold at the Olympics.\n\nWith that kind of push from the judges. \n\nWe beat the Bulgarians of the European in Bulgaria. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_577",
+        "text": "Some say Blue-Eyed White Dragon is the most powerful map\n\nOthers claim to be the Dark Wizard.  \n\nBut deep down in their hearts everyone knows that Macedonia is Bulgarian ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_625",
+        "text": "The Coronavirus\n\nBulgarian measures, \"control\" of the situation and populist shit ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_646",
+        "text": "Astrazeneca VA\n\nWe'll send in the vaccines...\n\nWe'll send the vaccines later! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_647",
+        "text": "SUPPLEMENTARY VACINS FOR ALL\n\nASTRA ZENECA \n\nBG \n\nTHE VACSIANS",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_648",
+        "text": "Pfizer/BioNTech Coca-Cola  \n\nModerna Pepsi\n\nAstraZeneca Derby Cola",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_649",
+        "text": "NATIONAL VAXINATION PLAN \n\nVACINATION OF WHO DOES",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_665",
+        "text": "Fifty-fifty\n\nAid from the SIC\n\nCall Dogan.\n\n Will GERB remain in power?\n\nA: Depends on EU\nB: Depends on Russia\nC: Depends on the US\nD: Depends on the Bulgarians ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_672",
+        "text": "Only a Russian teacher from a city of self-Sicadas from the Bankia can make a European Wall look like a PAKISTAN ADVANTAGE. Thank you! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_675",
+        "text": "THE LOCKDOWN HAS FAILED. THAT'S WHEN WE NEED ANOTHER LOCKDOWN. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_677",
+        "text": "KBAE E MANGEROV? He's gonna be fine. He's gonna be fine. He's gonna be fine. ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_678",
+        "text": "MOCKBA Mobilized is the entire resource of the state! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_680",
+        "text": "PEPI! They've brought the Vaxins! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_683",
+        "text": "Someone with a free freezer, pick up the pig that mine is full of vaccines?! ",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_811",
+        "text": "Borisov: We will not take additional measures, 40% do not believe there is a coronavirus",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_77",
+        "text": "Russia! Bulgaria remembers!\nDon't listen to the politicians!\nListen to the people!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_78",
+        "text": "WAITING\nGanya, to protect us from these gendarmes\n\nREALITY \nThere is no such country\nShlomo, to protect us from these gendarmes.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_79",
+        "text": "Oh, no!\nMACKA!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_80",
+        "text": "Article 4 (1) (a) (ii) (ii) and (iii) of CRR\n\nDINNER\n\nProcopius, Hero... please.\n\nRun!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_81",
+        "text": "We want to deploy in Bulgaria and Romania our nuclear weapons from Injirlik, Turkey turning you into a Russian nuclear target\n\nGive it to me.\nall of them.\nin Bulgaria\n\nWe want to deploy additional NATO troops on the territory of Bulgaria\n\nNo.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_82",
+        "text": "MACEDONIA IS BULGARIAN",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_83",
+        "text": "Cyril Petkov: Radev gave us\ncomplete freedom never once answered our phone to say, \"Do not do this\" or \"This man must be hired.\"\n\nNo one ever called to tell us, \"slow down, there are hidden interests there.\n\nBulgaria does not need foreign military\nterritory and Ukraine is not our problem\n\nStefan, don't do this! Stefan, there are interests there!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_84",
+        "text": "Romania\nRussia\n\nChina\n\nGanyo\nI won't.\nIt's all right. It's all right. It's all right.\n\nEU\n\nLondon\n\nUSA\n\n- if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist if you notice any side effects not listed in this leaflet or if you notice any side effects not listed in this leaflet.\nGlobal\nTotalitarian\nJender Mode\n\nIsrael\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_87",
+        "text": "German antivacers choose Bulgaria as a refuge. Colonies of fugitives from the German strictness in the pandemic are emerging on the resorts\n\nTHE BULGARIAN GUNDERI ENGINES IN\nGERMANY TO LIVE IN A NORMAL COUNTRY\n\nGERMANTITY ENGINEING IN BULGARIA YES\nLIVE IN NORMAL COUNTRY\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_88",
+        "text": "\"Only the one who is\nFree, he's the only one who can\nto be called a man in\nthe full meaning of\nthe word.\"\nCHRISTO BOTEV\n\nOnly the one who is\nfree to travel in\nThe States without a visa, only\nHe can be called\nperson in full\nmeaning of the word.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_89",
+        "text": "I'm taking her American visa, visa,\nI'm tired of my soul.\nSlavi and Ku-Ku Bend - Lake Ohrid\n(The New Barbarians Concert)\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_90",
+        "text": "Jeff Bezos:\n\"I will buy the building of the National Assembly and make it\nAmazon Warehouse.\"\n \n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_91",
+        "text": "240 comments later\nby the electorate of the Renaissance\nThey still don't have an answer to the question:\n\nWhat does the Cat have to offer,\nto solve the Covid crisis without vaccination?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_92",
+        "text": "ARRANGEMENT\nCoca-Cola\n\nThere is no covid.\n\nThese are not vaccines.\n\nHow much did they pay you?\n\nWe want the mall and the pub.\n\nThey're taking the D.N.C.\n\nThey're poisoning us with oxygen.\n\nfreedom for the mall\n\nThe Cat's not.\noffers nothing.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_93",
+        "text": "COVID IMPLEMENTING,\nTHE VACSIANS HELP\nRector of\nMedical University\nPlovdiv\n\nNO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO,\nTHEY'RE NOT VACINS.\nPolitician\n\nAS VIARVAH.\n..THE ONLY OF THE COCK\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_94",
+        "text": "TI CHEL LI SI\nDNevNIK WE\n\nMACAK LIKE\nYOU HAVE\nRECOVERY OF THE RECORD\nS.I.T.E.V.\nThe certificate shall be issued by the competent authority of the Member State in which the goods are placed on the market.\n\nBOOKUDE\nNAMERI 300\nLEVA ZA\nSERTIFIKAT\nWE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_95",
+        "text": "2020\nIn a democratic society,\nThe protest is a legitimate instrument of\nThe citizens... how nicely we've muffled.\nNova's journalists with broth-boulou\n\n2022\nThat's barbaric? What's this?\nscum that protested?! The bottom one.\nIt's something to hit on journalists.\nBus drivers were\ndrugged! DROGED!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_96",
+        "text": "PETKOV OF ARGUMENT\nSAVE YOUR LOVE\nBOOK OF BOOKS ON TIME\nTHE RESPONSIBILITIES IN SCREEN\n\nMANCHEV\n10 LOVELY RECEPTIONS\nFROM SLIEVEN\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_97",
+        "text": "Voyvodo, pillaged\nWe're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out.'re out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we're out, we\nBut you won't.\nHand it over!\n\nWe have to win.\nOr die, another.\nThere's no choice!\n\nHey, it's great that\nyou don't have territorial\nclaims against us.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_98",
+        "text": "HIGH PRICES\nRECORDING NUMBER OF DISCLOSURES\nINFLUTION\nREPEAT OF HISTORY\n\nWe're hitting a plane.\nSOFIA-SCOPIE!\nJUST KIRO\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_100",
+        "text": "Heh heh Siga sha angry sweat\n\nSpindermaan changed his cover...\n\u266a Nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato.\nOTAN\n# WEARENATO\n\nLGHDTV+DA Bulgaria\nThey put them on.\nNATO cover\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_101",
+        "text": "A new border point,\nhighway, airline and railway\nlink to Northern Macedonia\n\nNEIGHBOURHOOD BULGARIA:\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_102",
+        "text": "I'm going to write a comment.\nfor bad sweat\nAnd Sjoboda for Carnivalney.\nYes Bulgaria!\nFree Evpona\n\n\u266a my roaches \u266a \u266a my robes \u266a\nThey spilled the soybeans.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_103",
+        "text": "Itzac floors two palnanels gluten-free biscuits\n\n\u266a Nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato.\n\nsarendar potine, mocha, chick, soy milk\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_104",
+        "text": "How to Deal\nWith Northern Macedonia?\n\nLet's apologize to them for being fascist.\nLet's kick a game.\n\nMacedonia\nis Bulgarian\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_105",
+        "text": "No pysnak has ever called me \"Ganya.\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_106",
+        "text": "BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT,\nLet's broadcast the movie about violence.\nde-Bulgarian Macedonia\nONLY BECAUSE THEY WERE BULGARIAN\n\nBNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT, BNT,\nLet's change the program at the last minute for\nthe meeting between Kiril Petkov and Dimitar Kovacki\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_108",
+        "text": "Ganyo, as an independent and sovereign state,\nAn equal member of our defence alliance, NATO, I am obliged to ask you. What do you think about taking down the regime in Libya?\n\nWe're doing it, my brother.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_109",
+        "text": "BOYKO RASHKOV: \"Time is with Geshv to crush the social lives used for the production of foot-and-mouth disease, the distribution of narcotics and the manipulation of different types of narcotics, exclusivity and bath salts!\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_110",
+        "text": "When the boss from abroad came and said,\nFor the time being, the company won't close.\nCall the center and move to the indie:\n\nI AM A GENEROUS GOD\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_111",
+        "text": "I thought you were a patriot. How can you be with the Russophiles??\n# WEARENATO\n\nNATO OUT\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_112",
+        "text": "I want you to stop Lukovmarsh.\n\nThe best I can do is three onion-marsha.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_113",
+        "text": "Daddy's gonna buy me a bike, but when\nRussians invade Ukraine\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_114",
+        "text": "FUCKING GHANIA THAT HE'S AFRAID OF\nTHE NORWEGANS, BILL GAITZ AND SOROCH\n\nTHE ONLY GUY LIVES IN STANDING CONSPIRATIONS\nFEARS OF MACHINE CONVERSATION\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_115",
+        "text": "THE MACEDOANS WHEN THEY UNDERSTAND,\nYOU HAVE A STORY:\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_116",
+        "text": "offer a country with a history that\nto be interesting to young people\n\nBulgaria\nSpain\nMacedonia\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_117",
+        "text": "I understand the world as a field\nof historical forgery\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_118",
+        "text": "EXCUSE HOW I WENT HERE?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_119",
+        "text": "BULGARIAN COUNTRY\nIN 1913\nTO PROTECT THE BULGARIAN \nINTEREST IN MACEDONIA, WILL\nWE WALK AGAINST SERBIA,\nCZECH REPUBLIC, TURKEY AND ROMANIA\nONE-ON-ONE, AND I'M GONNA BE\nWe're in the middle of a russia.\n\nBULGARIAN COUNTRY\nIN 2022\nYou can call us whatever you want and define yourself as you are.\nFun... just don't take us away\nturf!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_120",
+        "text": "I'm proud of the story of\nMy nation!\n\nYes, and you shouldn't!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_121",
+        "text": "Bulgaria: *existes\nNorthern Macedonia:\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_123",
+        "text": "NATO\n...we want...\n\nThey want...\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_124",
+        "text": "2 hours after vaccination\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_125",
+        "text": "Macedonian scientists found Alexander's successor\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_126",
+        "text": "Macedonia trying to\ncontinue the negotiations on\nentry into EU, 2021d(colored)\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_127",
+        "text": "Macedonia: * withdraws territorial\nYour claims to Bulgaria\n\nMacedonia before this:\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_128",
+        "text": "U.S. Congressmen\nWe've got Macedonians.\n1492!\n\nWith such allies, enemies.\nWe don't need them.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_574",
+        "text": "MACEDONIA and BULGARIA\nMACEDONIA and BULGARIA\n\nTHEY CAN UNDERSTAND\nTHEY CAN UNDERSTAND\n\nAND BE IN HARMONIA\nAND BE IN HARMONIA\n\nMACEDONIA AND BULGARIA CAN FIND OUT AND BE IN HARMONIA\n\nMACEDONIA IS BULGARIAN!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_576",
+        "text": "How great Ukrainian nationalism is!\nHail Ukraine!\n\n\u266a Sheppa unlucky \u266a\nFORGET HIM NOW!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_578",
+        "text": "I'M NOT GONNA BE FIGHTING THE MACHINE.\nI'M NOT GONNA BE FIGHTING THE MACHINE.\nI'M NOT GONNA BE FIGHTING THE MACHINE.\nI'M NOT GONNA BE FIGHTING THE MACHINE.\nI'M NOT GONNA BE FIGHTING THE MACHINE.\nYou're surrounded by Ganya.\nCome and fight the Chick.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_579",
+        "text": "Puttler!\nHelp!\nPuttler!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_580",
+        "text": "LOOK, IT'S JUST SANCTS.\nDO YOU WATCH? \nI don't have any puka.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_581",
+        "text": "When Putin said that Crimea was given to Ukraine 1953 and 2014 took it back",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_584",
+        "text": "BULGARIA'S INTERESTS\n\nThis is brilliant.\n\nRUBLEY\n\nBut I like this.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_587",
+        "text": "Oh, my God, the NATO Cover and the Statuses didn't help!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_588",
+        "text": "Not the Vacs!\nNOT TO THE PANDAMEY!\nIt's a Fashion!\nDictatura!\nEVERYONE IS FREE TO CREATE WHAT TO DO WITH THEIRSELF!\nReturn your freedom!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_589",
+        "text": "I want military aid!\n\nTHE BEST I CAN PROPOSE IS TO PUT A RUSSIA OUT OF EUROVISION\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_590",
+        "text": "It's okay if the Turks come, the Russians are here in two hours.\n\nSaved your brother.\n\nIt's okay if the Russians come, the Turks are here in two hours.\n\nKumshou's eucalyptus\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_592",
+        "text": "WHEN MONKBA CEKHAT BANNING TRANSFERS",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_593",
+        "text": "Love and Peace for Ukraine\n\nPuttler's finished!\nFight, brave Ukrainian soldiers!\n\nOur thoughts are with you!\n\nStop this madness! You will never set foot on Eurovision again.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_594",
+        "text": "And we decide in the end this is our work, Sasho, Mustafa, Asen, and Ass.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_595",
+        "text": "Support for Russia\n\nLast chance to participate in the government BSP\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_596",
+        "text": "Talks between Russia and Ukraine will be in the Pripyat region\n\nHOW DO THE RECOMPERSIONS REPEAT?\n\nNOT GREAT, NOT TERRIBLE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_597",
+        "text": "RUSSIAN PROPAGANDA BAD\n\nUKRAIN PROPAGANDA DORA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_598",
+        "text": "Russia\n\nI'll be right back.\n\nRussia\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_129",
+        "text": "What Bill Gates vaccine \"Pfizer\" contains!\n\nLithium suppresses the will and desire to fight.\n\nBarium induces cancer sterility leukemia\n\nMercury kills the immune system and the black. c. Calves\n\nAluminium causes cancer and clot in the veins\n\nAntifreeze Destroys Brain Cells\n\nDO YOU STILL WANT TO VACINATE?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_130",
+        "text": "The manufacturer - DO NOT TAKE RESPONSIBILITY!\nThe government is not responsible!\nDoctors - DON'T TAKE RESPONSIBILITY!\nBut if you don't, you're irresponsible!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_132",
+        "text": "AFRICA IS SUCKED OUT OF THE EBA WHEN IT FINDS OUT THAT THE PAIN CROSSES IN THE VACINA...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_133",
+        "text": "\"Vaxinated I am... flirting with antivaxers is like playing with death.\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_134",
+        "text": "This OVC only differs by 16% OT BULGARIAns in VAXINATION\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_135",
+        "text": "They didn't want to bring in any mamas or to vacate, but we're still doing everything in our power to save them...\n\nYOU'RE OUR HEROES",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_136",
+        "text": "These people differ only by 16% from the Bulgarians in VAXINATION\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_137",
+        "text": "DISCRIMINATION\n\nNOT DISCRIMINATION\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_138",
+        "text": "EVERY DAY EATS AND PIE GENETICAL MATERIAL IN PROMOTIONAL COLLECTIONS\n\n\"Vaxinata is a gene terrapia\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_143",
+        "text": "Are you the only resident on this planet?\n\nYeah! They forgot to inoculate me!",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_144",
+        "text": "Doctor, what kind of paperwork do I need to get a vaccine?\n\nI.D. and will only...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_145",
+        "text": "Chronic, sick\n\nThat's who's taking our seats...\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_148",
+        "text": "I'm going to die for the motherland!\n\nYou're gonna die. \n\nYou're gonna die, Ama 1 Vaxina. You're not gonna die.\nAND FOR THE BLACKS\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_151",
+        "text": "1921\nHe's fighting five military conflicts. \nHe's going through two national catastrophes.\n\n2021\nUga-booga\nMask in the way\nBotzka vaccine\nDISCIRME NAATION!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_153",
+        "text": "\u266a I can already travel \u266a \u266a Vaksinite isn't so scary \u266a\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_161",
+        "text": "\"- If I eat vaccinated, will I\nI'm getting immunity?\"\n\n- If she's with Pfizer or Modern, she will.\nYou should eat another one after 20.\ndays.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_178",
+        "text": "What are we doing to stop you?\nnon-vaccinated\nOf you vaccinated?\n\nThe vaccine decreases\nmy disease risk,\nBut you're increasing it again.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_186",
+        "text": "The production of the Bulgarian vaccine has begun\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_189",
+        "text": "THIS MEANS THAT ACTS\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_191",
+        "text": "NO. NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO. NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO,\nNO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO. NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO,\nSYMPTOMS\n\nThat's it.\nONE OF\nSYMPTOMS\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_192",
+        "text": "My AXINATION PASPORT?\n\n\u266a To wait here \u266a\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_193",
+        "text": "Ask your doctor if \"medicine\" with 32 pages of side effects is good for you.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_194",
+        "text": "It's coming apart! \u266a We'll find and prove the science \u266a\nTO BE FINDED AND PROVIDED\n\nTHE 95%\n\nCIVID $ FOR PROPAGAND\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_195",
+        "text": "If you're missing your path... watch the stars.\n\nDONT\nVACINATE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_197",
+        "text": "THE WHOLE \"NATURE' PROVES THAT THE VACSIANS ARE SAFE:\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_198",
+        "text": "The cured patient is a lost client!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_199",
+        "text": "OBSERVATIONS TO DISCLOSURE MEASURES \n\nTHEY STARTED TO PICK UP THE NUMBER,\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_200",
+        "text": "No, thank you! I'M NOT PARTICIPATING IN THIS SECOND.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_201",
+        "text": "If I was Kamo meb, myk would be Turkey.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_202",
+        "text": "AND NOW FOR THE NEXT MAGIC TRICK\nWe're going to reverse a musical fascination into a living feat by the nerds, and I'm going to get my thanks.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_203",
+        "text": "TO CREATE PANDAMES IN THE DAY\nTime, don't you need a virus!\n\nIt's good to be in charge of televises!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_204",
+        "text": "Welcome to the future! BUT DON'T BE PRESSED, IT'S ONLY CONSPIRATION THEORY!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_206",
+        "text": "Look, cuz! I don't know much about\nmedicine, but this is the first time I've ever seen a disease,\nto be treated by Ministers, Prosecutors' Office, Police and Mathematicians!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_219",
+        "text": "Good bro, you take out bulgarian pasos and then you're ashamed to admit it?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_235",
+        "text": "When you discovered Bill's plan.\nGates to Redurse the number of population by\nvaccination and therefore you are not \"sick\"\n\nWhen you realize which part of the population\nIn fact, it's being reduced.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_270",
+        "text": "U.S.A. KILLED THE INDIANS\nTHE NEGROS PUT THE ATOM BOMBA NAD\nJapan, they burned Vietnam with NAPALM,\nBOMBARDIED SERBIA WITH UNITED URAN\nAND THEY LOVED UKRAINE???\nAnd BULGARIA???\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_278",
+        "text": "Have you eaten?\n[Sighs] [Sighs] [Sighs] [Sighs] [Sighs] [Sighs] [Sighs] [Sighs] [Sighs] [Sighs] [Sighs] [Sighs]\n\nIt's not you when you're hungry!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_279",
+        "text": "Have you had your lunch?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_280",
+        "text": "Green certificate holders look at those with purple antibodies\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_312",
+        "text": "Waiting in the Green Corridor queue for\nThe 34th vaccine dose after the 64th mutation\non the 45th Wave\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_320",
+        "text": "BUSTER DOSE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_367",
+        "text": "\"To be damned that one\nA minute when he's on his feet.\nRussian foot in our land.\"\nZahari Stoyanov\n\n\"Russia is not coming to us\nFree, and enslave us,\nconquer and devour.\"\nStefan Stambolov\n\n\"It's sacred to our sweet\nA country requires us to find\nWhat kind of thing is Russia and hers?\ntorture government.\"\nGeorgi Rakovski\n\n\"Russia can't be an enemy\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_370",
+        "text": "We have to subtract.\nThe Netherlands of Rockets\nTargets. The daughter is there...\n\nMine's in New York. We do.\nrelatives in London, Paris..\nWe don't have a whole lot left!\n\n- In Magadan and Voronezh.\nWe don't have any relatives, do we?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_371",
+        "text": "IF THE FIRE IS FROM WALKED UP.\nTO KNOW THAT TO PUTIN\n\nThey didn't keep his nerves.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_373",
+        "text": "THE UNITED STATES OF AMERICA\n\nThe Russian Central Bank\npresent the design of the new\n100 rubles note.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_374",
+        "text": "Biden's scary dream:)\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_375",
+        "text": "So you're pushing here and NATO.\nHe's gone. And this is the flashlight.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_376",
+        "text": "Don't worry, you can't get a Macedonian once.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_377",
+        "text": "We've got ourselves a common shower manin.\n\nRussia?\nBMPO\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_378",
+        "text": "You need a translator in a language of hatred!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_379",
+        "text": "WE CAN'T BE SO FEELING WHEN SOME TALK ABOUT BULGARIA!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_381",
+        "text": "A new border point,\nhighway, airline and railway\nlink to Northern Macedonia\n\nNEIGHBOURHOOD BULGARIA:\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_382",
+        "text": "At last, live! I'm sick of it.\nJust texting each other at Grindr.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_383",
+        "text": "How to Deal\nWith Northern Macedonia?\n\nLet's apologize to them for being fascist.\n\nLet's kick a game.\n\nMacedonia is Bulgarian\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_384",
+        "text": "Let's broadcast the film about the forced de-Bulgarian de-Bulgarian Macedonia\nONLY BECAUSE THEY WERE BULGARIAN\n\nChange the program at the last minute because of the meeting between Kiril Petkov and Dimitar Kovaski\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_386",
+        "text": "\u266a yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.\n\u266a To the top of the road \u266a \u266a To the top of the road \u266a\nTO PULL YOUR HANDS\n\u266a To the heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's heart's beating'\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_387",
+        "text": "The new Macedonian prime minister:\nWe will not negotiate with Bulgaria\nabout our language and identity\n\nKovachevski: Negotiations with Bulgaria\nThey're going to act up because we're a friendly country.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_388",
+        "text": "SAID BEFORE:\nBROTHERS, MACEDONIA IS BULGARIAN\nWe're gonna go together in the Cosmos!\n\nSTORY NOW:\nMATERIAL OF THE COMPETITIVE\nHero, give it all to the United States,\nIF YOU CAN DO IT IN SEMNGEM, PLEASE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_389",
+        "text": "Slavi Trifonov\n\nVISA FOR USA\n\nNATIONAL INTEREST\nBULGARIAN STORY\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_390",
+        "text": "MACEDONIA IS BULGARIAN",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_391",
+        "text": "Russia expands the list of persons from\nEuropean Union banned\nto enter the country.\n\nAbsolutely nobody:\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_392",
+        "text": "\"Bugarieus is taking care of\nThe EC door is closed to the Macedonian.\" \n\nYou're gonna have to get up.\nPresupposed to have a mastery, there is an art of potion that has doors.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_393",
+        "text": "Batka, if we pull out some bulgarian pasoshi,\nWe go to the addresses of Pirinska Makedoniya,\nmake a referendum on secession,\n\u266a \u266a \u266a We're really good at it \u266a \u266a We're really good at it \u266a \u266a We're really good at it \u266a\n\u266a To get them back \u266a\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_394",
+        "text": "== sync, corrected by elderman == @elder_man\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_405",
+        "text": "2020 Q1\nHe's got a heavy lockdown.\n\"Come in one with the Mask only!\"\nHe's going out on the terrace. Yeah.\nsupport the medics.\n#Staying still\nAll over the world: \"Bulgaria is an example of the struggle\nwith the virus'\n\n2021\nUGA-BUGA\nTHE BOSCATES\nIt's a Fashion!!\nYou're disciplining me to\nBLOOD AND BITAK HOUSE\nDOCTOR, DOCTOR, DOES IT HAVE A CHEMA FOR\nCertificate NO VAXINA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_412",
+        "text": "\"The green certificate in Bulgaria may be revoked in March.\"\n\n\u266a Someone who's wailing \u266a \u266a Someone who's wailing \u266a\nbuy certificate now:\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_416",
+        "text": "AFTER THE FAILURE OF OTHER PARTIES,\nBULGARIA SEND YOUR WILDEST\nDIPLOMAT TO DIE RUSSIA AND UKRAINE\n\n-We've been in touch with your Zelenski's sorority,\nIs it true that you're threatening to send him in?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_419",
+        "text": "I give you 24 hours or I send Elena.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_422",
+        "text": "Well, you're very simple!\n\nNothing, boss, we'll say it is.\nfrom the vaccine..\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_427",
+        "text": "CCEP in Halliwood started shooting the movie \"Gagarin!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_433",
+        "text": "Don't shoot! I'm retarded.\n\nProve it.\n\nBulgaria does not need to demonstrate\npro-Russian, pro-American or\nPro-European position.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_435",
+        "text": "2020\n2021\n2022\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_436",
+        "text": "Ukrainian photographer shot a Russian tank\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_438",
+        "text": "Bulgarian Air Force\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_447",
+        "text": "Putin complicates geography exams\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_448",
+        "text": "POLITICIANS WITH THEIR WIVES\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_449",
+        "text": "Who likes Russia?\n\nWho was in Russia?\n\nWho wants to go to Russia?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_452",
+        "text": "HOW EUROPIA SEES THE VISIT\nSTRAIGHT FOR RUSSIAN AIRCRAFT:\n\nWHAT THE RUSSIAN AIRPORTS SEE:\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_460",
+        "text": "WHEN MONKBA CEKHAT BANNING TRANSFERS\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_465",
+        "text": "The Bulgarian on Facebook\n\nNO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO.\n\nAll the world, be it\nagainst Russia - I will\nI'm against this world.\n\nTHANK YOU,\nRUSSIA!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_466",
+        "text": "- He's sitting far away, the bastard...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_468",
+        "text": "Open your cheeks...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_498",
+        "text": "PANDEMIA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_500",
+        "text": "Dinko from Yambol: Getting the tank out if Russia threatens us\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_507",
+        "text": "BULGARIAN RAM BOSILEK\n\nLike on?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_508",
+        "text": "caudide\ncaudide\ncaudide\n\nmedia\n\nKovrid!\nUkraine\nClick\n\nUkraine\nUkraine\nUkraine\nUkraine\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_511",
+        "text": "It was the Russians!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_524",
+        "text": "PUTIN WASN'T THE CHOICE,\nLEFT TO DRIVE UKRAINE\n\nTHIS IS ONE, THE BEAUTIFUL FRIEND OF\nSOME GIRL IS GONNA FIGHT IT BECAUSE IT'S\nHE WANTS TO BE WITH OTHERS AFTER THEY'VE DELIVERED.\n\nWE HAVE TO KEEP NAUTRALITY\n\n\u266a When you get married \u266a \u266a You don't keep a woman \u266a\nNetralite, but you help or you call the police.\n\nYOU'RE SOROSOID\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_535",
+        "text": "Who the hell is Munish?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_553",
+        "text": "Not the Vacs!\nNOT TO THE PANDAMEY!\nIt's a Fashion!\nDictatura!\nEVERYONE'S FREE\nTO CREATE WHAT TO SAY\nDO YOURSELF!\nRETURN\nLet's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_559",
+        "text": "He says he doesn't want to.\nNATO bordering\nwith Russia\n\nOkupira Ukraine\nand starts bordering on HATO.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_560",
+        "text": "When you get to the first secure amount in the Russian\nBecome Rich\n\nProfit\n50000000000\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_561",
+        "text": "This is 50 CENT or more prominent in Russia as 1 MILLION RUBLEY\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_563",
+        "text": "Who likes Russia?\n\nWho was in Russia?\n\nWho wants to go to Russia?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_565",
+        "text": "THE RUSSIAN DEAR IN UKRAINE\n\nWAITING\n\nREALITY\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_570",
+        "text": "THE BROTHER RUSSIANS\nThey're letting go of the Ukraine, that's how.\nAs they have freed us! \n\nYes! END TIME\nLet's live in Russia, shall we?\n\nIsn't it?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_571",
+        "text": "Live & work in EU\nPutin's gonna get us\nRelease from EU and HATO\nGayropa\nTolerates\nWe want to go to the USSR2.\n\nLive and work in RF\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_822",
+        "text": "BOYKOSHENKO\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_823",
+        "text": "The Russian people\nIt has to be.\ncruelly punished for\n\u266a this never seen \u266a\naggression!!\n\nWest\nMedia\nSOMALIA\nIRAQ\nSYRIA\nLIBIIA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_824",
+        "text": "Borisov\nHe's not a dictator.\n\nHe's a cartoon.\nto a dictator.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_825",
+        "text": "PROFESSOR!!\n\nShe's making money on Russia's back, and she's talking about her handiwork!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_826",
+        "text": "A Russian tank that saw Bayraktar.\npretending to be dead...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_827",
+        "text": "KOPEKIN WITH THE RUBLE CURSE NOW\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_828",
+        "text": "They're both from Ass-Brained.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_829",
+        "text": "Wait where you're going,\nI didn't give you a brain.\n\nI CAN'T... I HAVE TO.\nCOMMENTS\nEVENTS AND WAR\nWRITER IN UKRAINE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_830",
+        "text": "And Bue kug wasn't, kogamo's\nKueBckuya Mayor was beating his brother\ndefenseless Bulgarians?\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_831",
+        "text": "Ukrainiana teaches Uncle Ahmet,\nspeak Ukrainian.\n\nHow do I turn you?\nOh, look at you. She wants to be an asshat.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_832",
+        "text": "That fountain from 1762. Downtown\nGabrovo's 14 years old.\n\"Bigger\" from the United States\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_833",
+        "text": "\u266a I'm the one who died \u266a\nDracon! ONLY ARGUMENT\n\u266a And the Lights \u266a \u266a Powers \u266a\nA RETURNER!\n\nTHE SAVER OF BULGARIA!\n\nCat, take your pills.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_834",
+        "text": "WHAT ARST IS\nHumiliate?\n\n12 seconds\non display\n\n12 HOURS\non display with handcuffs behind\nback, no water, toilet,\nto the media and\nthe public\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_835",
+        "text": "THE CORPORATION IS A CRIME,\nBUT THE INSTRUCTION OF BULGARIA\nTHE WAR'S A WAR DYRGE\nTreason!\nKostadin Kostadinov\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_836",
+        "text": "Kiro, tomorrow you give the rocket to Ukraine\n\nI'm afraid of the people jumping.\n\nDon't worry, give them Boyko\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_838",
+        "text": "WE DON'T GIVE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_839",
+        "text": "Why the Fast Food Chain\nBurger King didn't close the objects in\nRussia? The reason is the 800.\nThe company's restaurant is Russian.\n15% participation as the remaining 2\nThe partner also has 15% each. That's it.\nU.S. chiefs have requested a full request.\nClose, but their Russian associate\nAlexander Kolabov said he wouldn't.\nHe hung up and didn't care what.\nThey want to go to the U.S. Now do you understand why\nin China, the UAE and Thailand always\nRequest to be partners in\nThe business with enough shares not to\nThey could be shut down by the Westerns.\ncountries. Now the partners from Sash.\nThey want to sell their 15 percent of\nRussian BK.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_840",
+        "text": "I don't know why they call me Copequin.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_841",
+        "text": "Military commission in the European Union.\n\nThey've started dialing.\nvolunteers for war with Russia...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_843",
+        "text": "Coca-Cola\nSosa-Cola HBS\nRossia\n\nWhat will happen to the CocaCola plants and\nPepsi in Russia. There are three Coca Cola plants.\nSamara, Moscow and Novosibirsk and 7 plants\nPepsi. Total profit of Coke and Pepsi in Russia\nWell, for 2020, about 200 billion rubles. It's not about the American company CocaCola, it's about a Swiss company that works on a license. So far, the options are two or the factories will work in some form to avoid sanctions or instead of Coke and Pepsi will remain only Russian carbonated drinks.\nAnd at the moment, the same factories are being manufactured.\nRussian beverages, such as....Tarhoun..\n\"Baikal\", \"Buratino\", \"Duches\". Most likely.\nThe Russian state will continue to use the CocaCola and Pepsi brands, but the license will be purchased by the Swiss for a certain amount or some compromise decision will be made, which will benefit both the Russians and the Swiss. The most radical option is the Kremlin to nationalize everything and use the brands and formula of drinks without paying anyone.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_844",
+        "text": "TELEVISION PROGRAM FOR\nMARCH 18, 2022:\n\nNOYA: LIES IN US\nNOVA: BROTHERS\n\n== sync, corrected by elderman == @elder_man\n== sync, corrected by elderman == @elder_man\n\nKINO NOVA:\n\nbty Comedy: Alf\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_845",
+        "text": "Tonight at sunset, everyone pray\nOur Lady to stop the war in Ukraine.\nThe Pope will dedicate Ukraine and Russia to\nThe unruly heart of the Mother of God!\n\nShare, share,\nshare....................................................\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_846",
+        "text": "!! Leave it!! ON \"ZELENIA\" ANTI-ECO MINISTER\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_847",
+        "text": "Minister of Defence in Italy\nHe's taking office!\nLet us wish her well.\n\n\u041d\u043e\u0432\u044b\u0439 \u043c\u0438\u043d\u0441\u0442\u0440\u0435\u0437\u043d\u043e\u043d\u044b \u0418\u0442\u0430\u043b\u0438\u0438 \u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u0432\nDolujnj\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_848",
+        "text": "MATERIAL OF THE COMPETITIVE\nTHE RUSSIAN SPIES IN FILMS\n\nRUSSIAN SPIES IN ACTION\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_849",
+        "text": "Neutrality for Bulgaria.We are brothers\nWith the Russian people and with the Ukrainian people!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_850",
+        "text": "\u266a Let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go, let's go!\nThe new strain is iron.\n\nLIGHT 2022\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_851",
+        "text": "So, what happened now? The Bulgarians banned us Russian media, and yesterday CNN /TV of the ruling Democratic Party/ have conducted an extensive interview with Dmitry Peskov, the right hand and spokesperson of Putin, in which he explained to the Americans the whole situation with Ukraine, Navalni and so on...........................................................\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_852",
+        "text": "Out.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_853",
+        "text": "MASTER, WILL YOU DRIVE 5 LITS IN THE GOLF?\n\n- Do you have a rouble?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_854",
+        "text": "THE GREATEST ASSESS FOR RUSSIA:\nACTIVES WHO HAVE STANDED PRESENT\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_855",
+        "text": "Let me in.\n\nWhy?\n\nTo save you.\n\nFrom what?\n\nFrom what will happen if you don't let me go\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_856",
+        "text": "When you deny being a Botox dwarf,\nBut you stopped the Botox:\n\nStopped Botox and Fillers Importing to Russia\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_857",
+        "text": "Just tell me what you want!\n\nI want Bulgaria.\n\nNow or now?\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_858",
+        "text": "Bulgaria is\n\nRadev\nBulgaria is\n\nNATO member\n\nNATO member\n\nFrom 2004 to 2004\n\nFrom 2004 to 2004\n\nBulgaria is a member of\nNATO since 2004\n\nLet's send the MiGs.\nrepair in Russia\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_859",
+        "text": "25.03.2022\n IMPLEMENTABLE\nIS IN THE CENTRE OF\nSOPHIA TO BE\nTHEY WONDER THE KNOWN!\n\n19.03.2022\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_861",
+        "text": "It's the political truth. If you don't break her down bad!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_862",
+        "text": "Bulgaria-1201 year\n\nAmerica-one-one-one-one-one-one-one-one.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_863",
+        "text": "Meet Art. Bonov, Deputy Chief of Police in Kiev.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_865",
+        "text": "Eng. Ivan Milev - a Buddak Bulgarian.\nBurned alive in Odessa. 2.V. This appropriation is intended to cover commitments remaining to be settled from previous years.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_866",
+        "text": "THE BULGARIAN PEOPLE\nBE CLEARED BY\nSELL POLICE!\nWE WANT THE MIRROR WITH RUSSIA\nAND BULGARIA - OUT OF\nTHE FASISTIC MIFES!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_867",
+        "text": "I paid America.\nOnce upon a time, some billions\nfor some fighters!\n\nWell, where are they when we need them?!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_869",
+        "text": "\u266a Nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato, nato.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_870",
+        "text": "As a BBC-funded journalist I have to\ncontinue consistently politically neutral.\nSo here's a photo of some flowers on a\nSunny day.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_871",
+        "text": "It's our other team!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_872",
+        "text": "Polish moms left strollers at a train\nstation for Ukrainian moms who may need them when they arrive in Poland with kids\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_873",
+        "text": "JUDGE, PRISON\n\n\u266a Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, who\n\nRussia Arrests Over 5,000 in Single Day for Protecting Ukraine War\n\nLORD PUTIN\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_874",
+        "text": "THE DRINK IS CALLED  \"F*CK PUTIN\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_875",
+        "text": "KICKED UP PUTS IN UKRAINE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_876",
+        "text": "MAKE LOVE NOT WAR\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_877",
+        "text": "A fighter knows all about the house in Barcelona.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_878",
+        "text": "Gazprom boycott!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_879",
+        "text": "I don't charge in Lucoil!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_880",
+        "text": "Ukraine e Russia\n\nUkraine is Europe\n\nUkraine is Iran\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_881",
+        "text": "Putin gets Nobel Prize\nfor medicine to deal with SOVID\nthe pandemic\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_882",
+        "text": "UKRAINE\nAIR SHOCKS\nRUSSIA IN UKRAINE\n\nSYRIA\nAIR SHOCKS\nISRAEL IN SYRIA\n\nAIR SHOCKS \nTHE WORLD IN THE LAST 72 HOURS\n\nJEMEN\nAIR SHOCKS\nSAUD. ARABIA IN JEMEN\nSOMILIA\n\nAIR SHOCKS\nU.S.A. IN SOMALIA\nDon't let the war kill you! Let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go, let her go!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_883",
+        "text": "These men in 23 years attacked 9\ncountries killed 11 million people and\nNobody calls them terrorists!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_884",
+        "text": "IRAQ\nLIBYA\nSYRIA\nSERBIA\nIRAQ\nUKRAINE\nSERBIA\nUKRAINE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_885",
+        "text": "Koghi, everyone thinks you're dead, but you're preparing for World War Il.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_886",
+        "text": "We impose severe sanctions\nagainst Russia!\n\nGreat, but what?\nSo that's it??\nWell, we'll pay for it.\nRussia gas and oil\nAt 200% higher prices!\nBulgarian and German\nExport factories\nThey're gonna go bankrupt.\n\nBravo!\nWe support ours unconditionally.\nI'm sorry, I'm sorry. I'm sorry, I'm sorry, I'm sorry.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_887",
+        "text": "A Clairvoyant Advises\nBulgarian women and brides!\n\nFix your heads, and no.\nbe constantly tired\nAnd pretend to be foxes.\nThey're coming very beautifully.\nUkrainians! And then you will.\n\u266a see your men \u266a \u266a through \u266a\nIt's a crooked macoron!!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_888",
+        "text": "BIRA 1,20\nA-95 2.50\n\nDon't go! Drink up!\n\nIt's for the best. or DO YOUR \u0395\u039b\u0395\u039a\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_889",
+        "text": "CLOSE THE SKY OVER UKRAINE!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_890",
+        "text": "I'll pay a little more for gas for her...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_891",
+        "text": "STANDING WITH UKRAINE\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_892",
+        "text": "\"War is barbaric if\nYou attack your peaceful neighbors,\nBut it's a sacred duty if you defend\nMy country.\"\nGuy de Mopasan.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_893",
+        "text": "- Get me some oil for 10 leva.\n- Okay.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_894",
+        "text": "Fuck it, gas gets too expensive yabadabadoo...\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_895",
+        "text": "RUSSIA\n\nUKRAINE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_896",
+        "text": "- BULGARIAN MAN\nIt's called \"Bulgarin.\"\n\n- So, man from\nIt's called \"GERCIN\"?\n\n- He didn't call himself a bug!\n\n- That guy from TURKEY called himself TURK?\n- It's not called TURCHIN.\n\nTHE GUY'S MEANING OF A MAN FROM\n Ukraina says \"Ukrainchin\"?\n\n- It doesn't say \"Ukrainian.\"\n- And the Russian guy says \"Russian,\" right?\n\n- No, it's \"Rubenac\"!\n\n- I'm gonna get you a lesbian!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_897",
+        "text": "RUSSIA 2021\n\nRUSSIA 2022\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_898",
+        "text": "I'm telling you to get me out of the world.\nBENZIN?\n\nRossia BENZIN & RACT\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_899",
+        "text": "Have THEY SURRENDERED ALREADY?\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_900",
+        "text": "From today, who eats Russian salad - 100 BGN GLOBA!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_901",
+        "text": "Germ of Ukraine\n\nA UPA symbol\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_902",
+        "text": "There's always money for war. But never\nThere's no money for peace and for people.\nDavid Ike.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_903",
+        "text": "-Putin, surrender!\nWe're NATO. BG.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_904",
+        "text": "\"DO YOURSELF AND\nTHEY'RE GONNA PADN!!\"\nFidel Castro.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_905",
+        "text": "1 btv\nNOVA\n- B-N-T:\nWE CONTINUE\nTHE RETURN\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_906",
+        "text": "Kire, who?\n\u266a Yeah \u266a\n\u266a sing to \u266a\nPeople?\n\nLet's go, folks.\n\u266a Go, go, go \u266a\nThe Energo Triple\nYou pay the electricity.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_907",
+        "text": "You can't destroy a people.\nwho envies people,\nRunning from war.\nSuch a nation has already been destroyed.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_908",
+        "text": "If Putin wanted me to...\nIt's killing peacefully.\npopulation, 24 hours\nUkraine would have been\nRussian territory! Apparently.\nGuard the civilians.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_909",
+        "text": "The Russophiles on Facebook when\nsee that Russia is beginning to lose\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_910",
+        "text": "MEDICIA\nUkrainian invasion causes Myocardit\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_911",
+        "text": "Daniel Lorre: We felt\nThreatened on Shipka. Today, snow\nBalls, tomorrow?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_913",
+        "text": "EVERY PROBLEM\nThere's a name, a family name and an address...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_914",
+        "text": "If it wasn't\nPutin to change\nThe subject, now yes.\nWe're on a b-wave.\nAnd on the 8th needle!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_915",
+        "text": "The moment the Ukrainians learned,\nthat give 40 BGN a day in Bulgaria\nAnd they can drain the sufferer.\nBulgarian pensioner\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_916",
+        "text": "While the world is staring\nto what is happening in Ukraine,\nBulgaria quietly annexed Romania.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_917",
+        "text": "Ask him, won't you get in line\nAnd you in line??\n\nHe says, \"Who drinks oil, brah?\" They're morons.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_918",
+        "text": "Like on?\n\nBULGARSKI\nRAM BOSILEK\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_919",
+        "text": "PANDEMIA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_920",
+        "text": "Putin:\n- The sanctions don't work!\nRuble:\n- Yeah, okay.\nThe value of the ruble against the dollar:\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_921",
+        "text": "THEY ASKED RADIO EREBANAN: WHAT HAPPENED,\nWHEN A MAN, AS MISHO SHAMARA,\nLeave Bulgaria and live in America?\n\nFROM RADIO REPRESENTS: COME ON.\nTHE CO-EFITIVE OF INITIENTIONS\nOf the two nations.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_922",
+        "text": "\"I WANT ALL TO.\nTHEY SEE US AS\nSTRONG MEMBER OF\nHATO.\"\n\nWHAT YOU WANT\nPEOPLE'S E-mail: e-mail: e-mail: e-mail: e-mail: e-mail: e-mail@europa.eu\nIMPORTANT-NO\nWHAT\nYou want me to!!\n\nI PERSONALLY WANT\nYOUR LEADER\n\nINA KOSTADINOVA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_923",
+        "text": "When Russia Recognizes Two\nSelf-declared new chicks\nStates, this is a violation of\ninternational law!\n\nAnd when NATO splits Kosovo,\nCroatia, Slovenia, Montenegro\nGora, Macedonia, Czech Republic,\nSlovakia as well as the Soviet\nUnion, this is not a violation of\ninternational law.\nLet's face it!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_924",
+        "text": "SUPPLEMENTATION DOES THE POWER\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_925",
+        "text": "Support RUSSIA, PASSING\n\nTHE GIVING QUITE GIPSOCARTONE\nWRITER IN ENGLISH\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_926",
+        "text": "As an EU citizen, I ask: Why the European Parliament\nis not investigating biolabs in Ukraine? The fact that experiments have been conducted on the territory of Europe with deadly strains doesn't bother them?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_927",
+        "text": "Current\nnews:\nIf your\nA husband cuddles.\nwith a Ukrainian woman, it's not.\nInfidelity, huh?\nhumanitarian\nHelp!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_928",
+        "text": "\u0412\u044a\u0440\u0436\u0430\u0432\u0430\u043d\u0435 \u0432\u044a\u0440\u0436\u0438\u0442\u0435 \u0432\u044a\u0440\u0436\u0438\u0442\u0435 \u0432\u044a\u0440\u0436\u0438\u0442\u0435 \u0432\u044a\u0440\u0436\u0438\u0442\u0435 \"Graff Ignatiev\"\nGet up.\n\"Svobodna Ukraine\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_929",
+        "text": "RUSSIA 2021\nRUSSIA 2022\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_930",
+        "text": "If your husband cuddles\nUkrainian, not cheating,\nIt's humanitarian aid.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_931",
+        "text": "Do you want me to try one more time?\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_932",
+        "text": "If every Russian drinks a liter of vodka,\nThat's 115 million liters or 250 billion.\nrubles in Russia's budget!\n\nWith this money can be made:\n5000 000 automatic\n5,000 tanks.\n1000 RSO CITY\n100 aircraft\n\nProve how much you love Russia.\nAt work, not fairy tales!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_933",
+        "text": "Ministry of Defence of Russia\nreported that 14 were discovered in Ukraine\nU.S. dust production plant\nHemtrails-chemtrails.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_934",
+        "text": "They found Russian oil in our waters!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_935",
+        "text": "Penalties to Russia\nThey're already working.\n\nThey were created.\nThree solo models!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_936",
+        "text": "MOCKBA - ANAPA\n\nTELENOPT\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_937",
+        "text": "THE GROB OF STEPHAN CARAJA\n\nCAPITAN'S GROB\nDIMBER SPIREVSKI\n\nGROBS OF UNKNOWN HOW\nAND WHERE TO DIE SOVIET SOLDIERS\nWRITER IN RUCE\n\nSOVIET SOLDIER'S PROBABLY\nDEAD BY ALCOHOL\nWRITER IN BURGAS\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_938",
+        "text": "THE GROB OF HADJI DIMITER\n\nWe're not a people.\nPetko Slaveykov\n\nTHE GROB OF A SOVIET SOLDIER DEAD\nFrom DIFTERIT\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_939",
+        "text": "Neshka Robeva:\nVanga was banging on the table in anger,\nthat we have entered NATO!\n\nNote: Vanga died in 1996,\nBulgaria entered NATO 2004.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_940",
+        "text": "- We need to get Holland off our missile targets. The daughter's there.\n\n- New York, mine is there, Paris is there, and London is the sister-in-law.\n\n- Bulgaria?\n\n- We can't deprive ourselves of our agents in NATO.\n\nSo we decide to attack Magadan and Voronezh?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_941",
+        "text": "- Bulgarian comrades are very useful idiots!\n- Bulgarian idiots are very useful comrades!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_942",
+        "text": "Prepare for the destruction of NATO!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_943",
+        "text": "\"To be damned that one\nA minute when he's on his feet.\nRussian foot in our land.\"\nZahari Stoyanov\n\n\"Russia is not coming to us\nFree, and enslave us,\nconquer and devour.\"\nStefan Stambolov\n\n\"It's sacred to our sweet\nA country requires us to find\nWhat kind of thing is Russia and hers?\ntorture government.\"\nGeorgi Rakovski\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_944",
+        "text": "THE GREATEST FEAR FOR RUSSIA:\nThe President of the United States of America is the President of the United States of America and the President of the United States of America.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_945",
+        "text": "How's it going?\nwith Russia,\nDid you announce it?\nTheir war\n\nNot yet, but...\nI'm working on it.\nQuestion\n\nThis guy's better.\nFrom Zelenski\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_946",
+        "text": "And Bue kug wasn't, kogamo's\nKueBckuya Mayor was beating his brother\ndefenseless Bulgarians?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_947",
+        "text": "AUDI Q7 HA\nTHE EAST BLOCK\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_948",
+        "text": "Kat RuZia doesn't have a second...\nShut up!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_949",
+        "text": "DO NOT JOKE WITH RUSSIA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_950",
+        "text": "Hello, Will Smith? Did you hear what he said?\nPutin for your wife?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_952",
+        "text": "Neutrality for\nBulgaria. We are brothers\nand with the Russian people and with\nThe Ukrainian people!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_953",
+        "text": "A LOT OF GAS\nVillage in Putinska Russia\n\nwithout gas\nVillage in the Djender EU/Germany\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_954",
+        "text": "What is it?\nGeneral Disorders and Administration Site Conditions\nSofia,\nBulgarie\nDo they fight with,\nUs.\n\nJudging by the way\nwho buys oil.\nPetkov must be crazy,\nto give them a weapon.\n\nAnd if they do,\nYes, he did.\n\nHalf will.\nThey shoot at politicians,\nThe other half of\nU.S. Embassy\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_955",
+        "text": "If Russia does not\nrespect us, will you?\nThere are new sanctions...\nEU to deprive itself of\nheat, water and\nfood for them\nThat's nasty for the Russians.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_956",
+        "text": "We're gonna give up the menu,\nBecause it was invented by a Russian - Dmitri\nIvanovich Mendeleev!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_957",
+        "text": "Does anyone know who this grandmother is?\nthe photo? They sent it to me and asked me how\nI'll comment on it, but I'm not comfortable with it.\nI'm discussing older women.\n\nRUSKIY\nKORABA\nNAHUI\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_958",
+        "text": "If Putin attacks a country from\nNATO, I'll throw it out right away.\nthis NATO country\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_960",
+        "text": "I AM\nANTI-NATO AND\nDISCLOSURE OF\nWARRIOR IN BULGARIA\nREACE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_961",
+        "text": "Biden shared his opinion on\nRussian hypersonic missile\n..Kinghal:..it's like any other.\nIt's a rocket. She's almost unstoppable.\n\"She has the same warhead\nlike any other rocket. None\nbig difference, except it's almost\nimpossible to stop\"\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_962",
+        "text": "There are refugees and refugees!\nOne is human, and the other isn't?\n\nUkraine\nMuslims\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_963",
+        "text": "Wait where you're going,\nI didn't give you a brain.\n\nI CAN'T... I HAVE TO.\nCOMMENTS\n\u266a \u266a \u266a The Beats and the War \u266a\nIN UKRAINE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_964",
+        "text": "{\\fsp-0.5}{\\cHFFFFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFFFF}{\\cH00FFFF}{\\cH00FF00}\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_965",
+        "text": "LET THE BULGARIAN PEOPLE\nDON'T EVER FORGET,\n\u266a That you owe your freedom \u266a\nON HIS RUSSIAN BROTHERS,\nARE YOU LIVING FOR HER!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_966",
+        "text": "BULGARIAN!\nOn 03.03, celebrating the Liberation\nof Bulgaria OT Turkish slavery,\nRemember who freed you!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_967",
+        "text": "F-16\nF-16\n\nRun\nSarskiller\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_968",
+        "text": "1. They choose the Pope for life.\n2. They pick Putin for four years.\n3. Putin has already met three popes.",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_970",
+        "text": "Boyko, spin, don't let me make you\nThe Bulgarian Navalny!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_971",
+        "text": "ON MARCH 3\nARRANGEMENT IN THE EYES OF ARGUING\n\nBENEFICIARY IN THE EYES OF THE RESPONSE PEOPLE\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_972",
+        "text": "b April 2022\n\nFor Neutral, Free Rl\nPeaceful Bulgaria!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_973",
+        "text": "250 accidental\nselected Americans,\nthey were asked to\nPlace a yellow dot,\nwhere they believe that\nis located Ukraine.\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_974",
+        "text": "We need air support!\n\nYou're doing great!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_975",
+        "text": "* Happened putinophile*\nHOW TO SUPPORT UKRAINE, TO BE YOURSELF\nLAUGHTER LAUGHTER LAUGHTER LAUGHTER LAUGHTER LAUGHTER LAUGHTER LAUGHTER {\\cHFFFFFF}{\\cHFFFFFF}{\\cHFFFFFFFF}{\\cHFFFFFFFF}{\\cH00FFFFFFFF}{\\cH00FFFFFFFFFFFFFFFFFF}{\\cH00FFFFFFFFFFFF}{\\cH00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF}{\\cH00FF00FFFFFFFFFFFFFF}{\\cH00FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00}\nNazis, three of you, I'm not going to follow you!!\n\nI don't even know who you are.\n\u266a Slava Ukra \u266a \u266a Na-na na-na na-na na-na \u266a \u266a Na-na na-na na-na na-na \u266a \u266a na-na na-na na-na \u266a \u266a na-na na-na na-na na-na \u266a \u266a na-na na-na na-na na-na na-na \u266a\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_976",
+        "text": "Mitrophanova,\nGOBACK TO SIBBIR!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_977",
+        "text": "Is 8 a lot? \n\nWELCOME FROM THE CONTEXT\n\nRUBLEY? No.\n\nMILLION RUBLEY? No.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_978",
+        "text": "What?\nWe don't give.\nUkraine?\nx weapons\nX ammunition\nX Military Equipment\n# We're moving on The Change\n#Bulgaria and Ukraine\npromeni.bg\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_979",
+        "text": "Knee of the Moldova-UKRAINE border\n\nBOOT IN BULGARIA PARLIAMENT \n\nMister, you're not doing anything here, I'm going to\nsaving the Bulgarians in Ukraine, despite\nI don't have anything to save them from, 'cause...\nThere's no war.\n\nNo, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.\nPlease don't.\nShoot, I'm not the leader of\npro-Russian Party",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_980",
+        "text": "These are the only MEPs who voted\nagainst the condemnation of the Russian invasion in\nUkraine\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_981",
+        "text": "Say, \"Kovid,\"\nSay \"GREEN SETITIFICATION,\"\nSamuel\nTell me.\nis a Macedonian.\n\nTWD,\nGREEN\nSETITIFICATION,\nSamuel\ne\nMacedonian.\n\nGood.\nBoy...\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_982",
+        "text": "In Macedonia's ParlamentT\nYou're wearing a mask - why?\"\n\n\"Because I'm abroad\nI'm obliged to comply.\nWith other people's laws.\"\nThe minister refused to shuffle.\n\nHow a German minister refused to be\nPut a hijab in Saudi Arabia\nShe got rid of prison just because she's an official guest.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_984",
+        "text": "What's in Kostya Kopashkin: ACE\n\nWhat's in Kiril Petkov:\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_985",
+        "text": "ALOO Will Smith?\nYou have no idea what you're talking about.\nTO YOUR WIFE!\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_986",
+        "text": "Vika, you'll pay me in rubles...\nIn rubles! But first,\nOh, my God. He screams, with money... with money,\nThen, he says, \"I'm gonna buy me a ruble...\"\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_987",
+        "text": "When you see the rush,\nFire up Bellomore!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_989",
+        "text": "A Fellowship of Ages for Ages!\n\nBULGARIA AND RUSSIA\n\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "38",
+        "text": "Coronavirus\nCOVID-19\nThe vaccine\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "39",
+        "text": "\"If we hadn't been\n\u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a \u266a I'm gonna be all right \u266a\nRelations with\nRussia, I wouldn't\nWe share\nThat's the trouble.\nGod is punishing us.\nAbout ours.\nUngrateful\nShe's ours.\nLiberator.\"\n16\nSA\nVanga\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "4",
+        "text": "HOW DO YOU FEEL?\n\u266a Once upon a time \u266a \u266a Once upon a time \u266a\nUNKNOWN NEEDS\n\u266a To registrate \u266a \u266a Windows-a \u266a\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "40",
+        "text": "There's no overtime.\nPOSITION\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "41",
+        "text": "I NEVER TRUSTED THAT ONE\nTHE START OF THE WITNESSES WILL BE TRUE:\nBAY GANGIO BULGARINA\nAnd Bhai Ganyo the American...\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "42",
+        "text": "Funny Sad Angry\nFunny Sad Angry\nFunny Sad\nAngry.\nSTARECAT.COM\nFunny Sad\nAngry.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "43",
+        "text": "BEFORE AND AFTER\nTHE VACINA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "44",
+        "text": "2D2M\n22i\n2022\n7.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "45",
+        "text": "Yeah, I support the PCP.\nTHE PICKET FOR\nFOUR YEARS\nANCH\nThe Proletariat\nThe Petite.\nFifth International\nNaughty kittens.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "47",
+        "text": "Please,\nCalm down!\nWe're not here.\nNOVANEWS\nLet's do it here.\nCircuses!\nL GGG\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "48",
+        "text": "I expect Kukers in the Council of Ministers in\nFebruary\nAFP\nMeanwhile, in the United States:\nPOL\n8YA6W8\nSaul Loeb/AFP\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "49",
+        "text": "i\n2 hours after vaccination\nPIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK PIK\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "5",
+        "text": "estarcheski_humor\nVOICE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "50",
+        "text": "BEFORE THE VACINA\nTHE PRINCIPAL\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "51",
+        "text": "There you go, Bharak! I am.\nThe president of the USSR...\nU.S.A., Jo!\n- Who's Joe??\n@memetatop\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "52",
+        "text": "EC: There is no increase in the number of\nrefugees from Afghanistan\n07.10.2021, 00:41 min. \"Download\"\n@mememe_bartiq\nDinko from\nYambol:\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "53",
+        "text": "7 Victories in Elections\nin one photo\n@mememe_partiq\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "54",
+        "text": "Americans: Why Humans\nall over the world, they care so much.\nabout our policy?\nAmerican military bases:\nAsia\nAtlantic\nOcean\nIndian\nOcean\n2\n@MEMEME PARTIQ\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "55",
+        "text": "You'll never\n\u266a Understand \u266a\nHeh.\nmy pain\nsorry.sorry,\n@MEMEME_PARTIQ\nAmerican,\ndissatisfied with\ncandidates\nin elections\nBulgarian, Survived\n11 years Boyko\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "56",
+        "text": "WHEN ALL YOU GUYS ARE SAYING,\nBut you want him alone.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "57",
+        "text": "He, her, father and mother and more words, which\nU.S. Congress to Ban\n7vd 20211808 Editor: Darivewsbg\nNancy Pelosi / buve/ey images\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "58",
+        "text": "Upper Macedonia\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "59",
+        "text": "North\nMacedonia\non the way to the EU\nBugari, Tatars!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "6",
+        "text": "E Pernishkikumor\nVAXINATION BY\nPERNISHES\nCorona,\nExtra\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "60",
+        "text": "HISTORY\nTHE BALKANS\nNEIGHBOURHOOD\nMACEDONIA\nAutoswim.com)\n\u266a But why no one \u266a\nWe don't like it.\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "61",
+        "text": "Admit it.\nBulgarians\nis roots,\nOR\n\u266a Draw \u266a\n25\nPolitical\nUNO\nHUMOR\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "62",
+        "text": "I'm your father!\n...............................................\nNooooooooooooooooooooooooooooooooooooooooooooooooo!\nPolitical\nHUMOR\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "63",
+        "text": "Macedonian nation\nBefore\nNow.\nBugari tatari\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "1",
+        "text": "When you wake up after you're whole\nYou've been inoculating yourself for the night.\ncoronavirus/I\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "10",
+        "text": "Choose one.\nWorld Peace\nMacedonia\nIt's happening again.\nBulgarian\nNew song\nof Aziz\nGERB finally\nThey're losing the election.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "11",
+        "text": "Don't believe him, it's Boyko.\nBoyko nash corrupt, I need it\nDobre che mi kaza\nHristo:DDDD\nChovek:DDDD money for elections and will\n\u266a make things right \u266a\ndani nash\nChovek:DDDD\nDon't believe him, Danny's with\nBoyko, I need money.\nfor new elections and will\n\u266a fix the stuff \u266a\nblagodarq ti crispo\nXDDD\nAuea Mumol\nDon't believe him, it's Slavi.\nChalgar, I need you.\nslavi nash\nChovek:DDDD money for new elections and\nhristo ti si nai velikiqt\nMi suyiznik:DDDD\nI'll make it right.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "12",
+        "text": "Slavi: We'll send you into space\nA woman, a man and a Macedonian\nThe parties of the protest:\nMission 121\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "13",
+        "text": "WHEN THEY SAY THE GOOD\n\"Always WELCOME, AMMA SETISH\"\nWHO WON IN THE SECOND WORLD WAR:\nTerezpro Bzarapcko 1lapergo\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "14",
+        "text": "I have a doubt that\nhas a sorosoid\n) (a.k.a., d.o.b., d.o.b., d.o.\nParliament. You have to.\nto find out if it is.\nSo and who they are.\nNo, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.\nsorosoid\nMaikorodovnitsi\nAnc\nGERB\n1891\npokgacia nnamdowa\nStand up. B.\nBSP\nEMBASSY\nSOFIA\nUNUM\nSTATES\nOF\nDINNER\nU.S.\nUNITED\nAMERICA\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "15",
+        "text": "Ol historicheski_humor\nHOW IT STARTED\nLIVE KABUL\nAL JAZEERA EXCLUSIVE\nHOW IT'S GOING\niof.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "16",
+        "text": "How do I record, knowing that after 20\nyears of war and trillions spent by\nU.S.A., Taliban take over back\nAfghanistani impose shariat\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "17",
+        "text": "THE GAVEL FOR ALL\nUnited Passive Gerberas -\n12 m:0\nNOBODY LOVES US\nAMERICA FOR\nBULGARIA\nFOUNDATION\nSOFIA\nCENTRE\nWE DON'T WANT TO.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "18",
+        "text": "USA\nTALIBANS\n2001\nYerrzpTo Bzarapoko L\u013caperBo\nTALIBANS\n2021\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "19",
+        "text": "USA\nTALIBANS\n2001\nYerrzpTo Bzarapoko L\u013caperBo\nTALIBANS\n2021\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "2",
+        "text": "I'm wearing a mask to...\nI'm protecting myself from\nvirus\nI'm building a fence to\nMosquitoes don't come in.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "20",
+        "text": "Communists are\nPoisoned Boris three.\nThe Germans are\nPoisoned Boris three.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "21",
+        "text": "Chaos after the withdrawal of U.S. forces\nand taking over Soiffia from the mojohidins.\n(Sofia Airport, 2021, coloured)\nB AIR FORCE\n1109\nAMERICA FOR\n62 AW\nBULGARIA\n446 AW\nFOUNDATTION\nTEPMMNAA2 PT AL 2\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "22",
+        "text": "What the vaccine contains\n\"Pfizer\"!\nby Bill Gates\nLithium suppresses the will\nand the desire to fight.\nBarium Causes Cancer\nsterility leukemia\nMercury Kills Immune\na system and a black. c. Calves\nAluminium Challenges\ncancer and clot in the veins\nAntifreeze Destroys\n'brain cells\nDO YOU STILL WANT TO\n20\nY'all wanna get out of here?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "23",
+        "text": "Americano, documents\nfor verification\nYou have no right.\nUN\nIN\n\u266a Dont Tread on me \u266a\nGRIY SLOA\nNEMORIA\nHOSPITAL\nGanyo, documents for\nverification\nUN\nCOVID\nLIGMA\nvariont\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "24",
+        "text": "Democratichng))\nBulgaria\nUNIT\nDemocratic\nBulgaria\nI want to live.\nin normal\nState\nDemocratic\nBulgaria\nUNIT\nEEEEEL\nDemocratic\nBulgaria\nUNITED IE\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "25",
+        "text": "WOMEN\nMEN\n...............................................\nHivos\nLunicef UNAIDS\nOSCE\nOAK\nOPEN SOCIETY\nFOUNDATIONS\nS The Global Fund\nDAAD\nUSAID Sda\nHow could you?\nYou believe in those.\nphanasmagories\n...............................................\nSENTIA\nINGENEIM\n6,000\nx 1000\nDid you know?\nCow burns added to global storage\nIt's all there.\nThat's it.\nTITFT\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "26",
+        "text": "Ganyo, you're getting up.\ncitizen\nGanyo, you're getting up.\nEuropean\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "27",
+        "text": "Anc\nGanya, do you want to live?\nIn a normal country?\nYeah.\nThen vote.\nfor DB.\nOkay.\nBLACK\nLIVES\nMATTER\nWhat's wrong with you, Ganya?\nREFUGEES\nWELCOME\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "28",
+        "text": "If you row faster, I will.\nWe're getting up there.\n\u266a on time \u266a\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "29",
+        "text": "Greasy\nThey're traders.\nGuilty.\nspeculators\nthey're guilty.\nRussian\nEnergy\ncompanies\nthe official\nIt's a government.\nthey're guilty.\nBRRR\nGuilty.\n100\n10o\nEUROPEAN CENTRAL BANK\nEUROSYSTEM\n2.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "3",
+        "text": "Jas sum Potomok\nof Alexander the Great\nFuck off I don't believe in\nthat made up notsense\nPhoto of the last Manchu Bulgarian Emperor of China - Guangxu\nEmperor. According to some British travelers the manchus called\nThemselves \"Bugar.\"\nCLAR\nSo true!!\nand even Kiene created by Bulgarians and\nSlavs. In pagan times there was and\nSrhan and Prince.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "30",
+        "text": "7.\nWe saved it.\nNature\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "31",
+        "text": "European Union\nEBPONE CKA\nSocillene Fund\nPAJBHTME HA\nHumanE Peasursi\nProject \"Lie Ganyo with a Clock\"\nProvision of 109 free\nGanya's smart clock by raffle\nFinancing: BGN 6 million\nSALE PRIKE\n50.00\n50\nI want to.\nI'm in.\nTombola een.l\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "32",
+        "text": "When will you be\nClose the power plants.\nAnd you're gonna stop.\nYou're cooking homework.\nRakia?\n100\n16\n100e\nQ how many years did the ussr last\nAll Images Videos News\nMaps Books\nFli\nThe Soviet Union, officialy the Union of Soviet\nSocialist Republics (USSR), was a socialist\nstate that spanned Europe and Asia During its\nExistence from 1922 to 1991. It was customly\na federal union of multiple national republics; in\npractice its government and economicy were\nHighly centralized until its final years.\nPeople ask, too.\nWhen and why was EU formed?\n{\\cHFF00FF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FF00}\n2038.\nfor everyone\ncase\n20\n20\n150\n120\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "33",
+        "text": "He's been fighting his whole life.\nbreasts that is Macedonian\nLine up first.\npassport of the Republic of Bulgaria\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "34",
+        "text": "THE MACEDOANS\nThey're gonna hurt me.\nLONEYAKOY\nHAVE ADOPTED THIS REGULATION:\nIMOVING THE EYES\nIF ALL\nBULGARI'S GOING TO SAY SOMETHING ELSE,\nReality Will Become\nMACEDONIA\nEBULGARSKA\nimgflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "35",
+        "text": "Macedonian\nhistory\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "36",
+        "text": "Bulgaria: *enters EU*\nBulgarians:\nTIME TO ABANDON SHIP\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "37",
+        "text": "Hot\nCollages\nHot\nCollages,\nHot Collars\nI sent mine.\nMacedonian Friends\nThis cake. And I don't know.\nWhy don't they anymore?\nThey're talking to me!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "64",
+        "text": "Macedonia trying to\ncontinue the negotiations on\nentry into EU, 2021d(colored)\nRo\nimaflip.com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "65",
+        "text": "i\nbgnes.bg\nMacedonian Academy Chairman:\nRSM was under 100 years of Bulgarian slavery\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "66",
+        "text": "Macedonians when\nThey're starting to talk about\n\"The Great\" His Story\n@mememe_partiq\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "67",
+        "text": "I won't talk about politics\nSo do I, after the third brandy:\n@mememe cartiq\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "68",
+        "text": "@mememe_partiq\nCircus\nA much bigger circus.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "69",
+        "text": "With this joke, Albanian Prime Minister Edi Rama\nTurned to Macedonian counterpart\nZoran Zaev at the Economic Forum\nSkopje.\nDINNER bg\ndnevnik.bg\nQuote of the day: Hope they don't want to\nCall Western Bulgaria\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "7",
+        "text": "Stand up to the censorship!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "70",
+        "text": "Antique\nThe Centre for the Development and Development of the European Atomic Energy Community (EMCDDA) is responsible for the implementation of the European Research Area.\nArt\nSkopje\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "71",
+        "text": "NEIGHBOURHOOD\nMACEDONIA\nHISTORY\nTHE BALKANS\nTautswim.com]\n\u266a But why no one \u266a\nNO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO,\n.com\nimaflin com\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "72",
+        "text": "The Macedonians, when you are\n{\\cHFFFFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFF}{\\cH00FFFF}\nhalfway around the world:\n@mememe_partiq\nReality can be whatever I want\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "73",
+        "text": "Macedonian\nhistory\nWoah.\n@mememe partiq\nThis is Wortless!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "74",
+        "text": "@MEMEME PARTIQ\nMacedonian\nWorld\nhistory\nhistory\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "75",
+        "text": "She never was!\nWait, the Earth didn't.\nis Macedonian?\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "76",
+        "text": "Daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy ding daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy daddy\nIt's me.\nMacedonfts\nthe\nYou'll burn at the stake\nYou atheist.\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "8",
+        "text": "MACEDONIA and\nBULGARIA\nMACEDONIA and\n- BULGARIA\nTHEY CAN UNDERSTAND THEM.\nAND BE IN HARMONIA\nAND BE IN HARMONIA\nMACEDONIA BULGARIA\nTHEY CAN UNDERSTAND\nAND BE IN HARMONIA\nMACEDONIA\nBULGARIAN!!\n",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "9",
+        "text": "THE AMERICAN DREAM\nglaspar\nDoughboy.\nCHATIES\nChiemen\nRayai Chaf\nTHE BULGARIAN DREAM\nHA\nKrushevac\nRazgrad\nDobrich\nFerdinand\nPleven\nNoise\nNish\nVarna\nN. Market\nPyrote\nVratsa\nTyrnovo\nK. Mitrovica\nGabrovo\nSOFIA\nSliven\nPristina\nPernik\nBlack Sea\n. Rhubarb\nStara Zagora\nYambol\nBurgas\nKyustendil\nPrizren,\nPazardzhik\nPlovdiv\nCucumber\n.Kumanovo\nTetovo\nSkopje\nGorna Dzhumaya\nHaskovo\nVeles\nClip\nOdrin\nLozengrad\nKardzhali\nNeurocope\nSmolyan\n. Deber.\nStrumnitsa\nLuleburgas\nBat\nStrout\nOhrid.\nBitola\nDrama\nXanthi jugurgina\nIstanbul\nRhodosto\nKukush\nKavala\nDeceaser.\nLerin\nVoden\nMarble Sea\nKorcha\nThessaloniki\nostur\nSamothraces\nGalylols\nSkins\nSquirrels\nWhite Sea\nGrevena\n. Chanakkale\n",
+        "labels": [
+            "Smears"
+        ]
+    }
+]

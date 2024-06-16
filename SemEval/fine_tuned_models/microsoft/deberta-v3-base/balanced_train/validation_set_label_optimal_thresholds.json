@@ -1,0 +1,22 @@
+{
+    "Appeal to authority": 0.6,
+    "Appeal to fear/prejudice": 0.56,
+    "Bandwagon": 0.9400000000000001,
+    "Black-and-white Fallacy/Dictatorship": 0.36,
+    "Causal Oversimplification": 0.68,
+    "Doubt": 0.98,
+    "Exaggeration/Minimisation": 0.54,
+    "Flag-waving": 0.58,
+    "Glittering generalities (Virtue)": 0.88,
+    "Loaded Language": 0.52,
+    "Misrepresentation of Someone's Position (Straw Man)": 0.92,
+    "Name calling/Labeling": 0.4,
+    "Obfuscation, Intentional vagueness, Confusion": 0.16,
+    "Presenting Irrelevant Data (Red Herring)": 0.8,
+    "Reductio ad hitlerum": 0.7000000000000001,
+    "Repetition": 0.72,
+    "Slogans": 0.42,
+    "Smears": 0.42,
+    "Thought-terminating clich\u00e9": 0.46,
+    "Whataboutism": 0.84
+}

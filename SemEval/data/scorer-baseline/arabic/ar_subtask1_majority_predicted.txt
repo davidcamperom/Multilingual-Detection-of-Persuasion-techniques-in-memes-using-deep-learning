@@ -1,0 +1,569 @@
+[
+    {
+        "id": "00407",
+        "labels": []
+    },
+    {
+        "id": "00051",
+        "labels": []
+    },
+    {
+        "id": "00022",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00573",
+        "labels": []
+    },
+    {
+        "id": "00005",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "00008",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00079",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00368",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00506",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00318",
+        "labels": []
+    },
+    {
+        "id": "00405",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00027",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00404",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00170",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Repetition",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "00134",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00012",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00021",
+        "labels": []
+    },
+    {
+        "id": "00056",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Repetition",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "00050",
+        "labels": [
+            "Appeal to authority",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00327",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00153",
+        "labels": []
+    },
+    {
+        "id": "00049",
+        "labels": []
+    },
+    {
+        "id": "00020",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00057",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00073",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00032",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00044",
+        "labels": []
+    },
+    {
+        "id": "00081",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00479",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00061",
+        "labels": []
+    },
+    {
+        "id": "00077",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "00460",
+        "labels": []
+    },
+    {
+        "id": "00004",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00055",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00040",
+        "labels": [
+            "Appeal to authority",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00222",
+        "labels": []
+    },
+    {
+        "id": "00028",
+        "labels": []
+    },
+    {
+        "id": "00037",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00426",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00084",
+        "labels": []
+    },
+    {
+        "id": "00006",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00054",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00016",
+        "labels": []
+    },
+    {
+        "id": "00125",
+        "labels": []
+    },
+    {
+        "id": "00083",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00491",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00025",
+        "labels": []
+    },
+    {
+        "id": "00011",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00001",
+        "labels": []
+    },
+    {
+        "id": "00002",
+        "labels": []
+    },
+    {
+        "id": "00076",
+        "labels": []
+    },
+    {
+        "id": "00145",
+        "labels": []
+    },
+    {
+        "id": "00052",
+        "labels": []
+    },
+    {
+        "id": "00080",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00233",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00017",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "00200",
+        "labels": []
+    },
+    {
+        "id": "00039",
+        "labels": []
+    },
+    {
+        "id": "00325",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00035",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "00490",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00046",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00406",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00058",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00482",
+        "labels": [
+            "Loaded Language",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "00034",
+        "labels": [
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00403",
+        "labels": []
+    },
+    {
+        "id": "00024",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "00009",
+        "labels": []
+    },
+    {
+        "id": "00082",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00499",
+        "labels": []
+    },
+    {
+        "id": "00410",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "00275",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00183",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00447",
+        "labels": []
+    },
+    {
+        "id": "00019",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00053",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00483",
+        "labels": []
+    },
+    {
+        "id": "00047",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00409",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00003",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00093",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00043",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00277",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "00048",
+        "labels": []
+    },
+    {
+        "id": "00112",
+        "labels": []
+    },
+    {
+        "id": "00023",
+        "labels": []
+    },
+    {
+        "id": "00078",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00369",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00408",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "00542",
+        "labels": []
+    },
+    {
+        "id": "00089",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "00244",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00541",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "00042",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "00060",
+        "labels": []
+    },
+    {
+        "id": "00234",
+        "labels": []
+    },
+    {
+        "id": "00354",
+        "labels": []
+    },
+    {
+        "id": "00431",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "00030",
+        "labels": []
+    }
+]

@@ -1,0 +1,2531 @@
+[
+    {
+        "id": "bg_mk_memes_83",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_104",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_106",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_148",
+        "labels": [
+            "Doubt"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_237",
+        "labels": [
+            "Causal Oversimplification",
+            "Loaded Language",
+            "Repetition",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_246",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_247",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_248",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_270",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_273",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_275",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_286",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_327",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_342",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_349",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_353",
+        "labels": [
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_354",
+        "labels": [
+            "Flag-waving",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_371",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_375",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_376",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_412",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_417",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_422",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_429",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_441",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_446",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_447",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_458",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_577",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_625",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_646",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_647",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_648",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_649",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_665",
+        "labels": [
+            "Repetition",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_672",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_675",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_677",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_678",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_680",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_683",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_811",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_77",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_78",
+        "labels": [
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_memes_79",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_80",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_81",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_82",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_83",
+        "labels": [
+            "Loaded Language",
+            "Repetition",
+            "Smears",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_84",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_87",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_88",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Name calling/Labeling",
+            "Repetition",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_memes_89",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_90",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_91",
+        "labels": [
+            "Doubt",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_92",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_93",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_94",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_95",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_96",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_97",
+        "labels": [
+            "Loaded Language",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_98",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_100",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_101",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_102",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_103",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_104",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_105",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_106",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_108",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_109",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_110",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_111",
+        "labels": [
+            "Appeal to authority",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_112",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_113",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_114",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_115",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_116",
+        "labels": [
+            "Appeal to authority"
+        ]
+    },
+    {
+        "id": "bg_memes_117",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_118",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_119",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_memes_120",
+        "labels": [
+            "Flag-waving"
+        ]
+    },
+    {
+        "id": "bg_memes_121",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_123",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_124",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_125",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_126",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_127",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_128",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_574",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_576",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_memes_578",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Name calling/Labeling",
+            "Repetition",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_memes_579",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_580",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_581",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_584",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_587",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_588",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_memes_589",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_590",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_592",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_593",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_memes_594",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_memes_595",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_596",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_memes_597",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_598",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_129",
+        "labels": [
+            "Causal Oversimplification",
+            "Doubt",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Obfuscation, Intentional vagueness, Confusion",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_130",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Causal Oversimplification",
+            "Repetition",
+            "Smears",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_132",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_133",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_134",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_135",
+        "labels": [
+            "Flag-waving",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_136",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_137",
+        "labels": [
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_memes_138",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_143",
+        "labels": [
+            "Doubt"
+        ]
+    },
+    {
+        "id": "bg_memes_144",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_145",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_148",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_151",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_memes_153",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_161",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "bg_memes_178",
+        "labels": [
+            "Doubt"
+        ]
+    },
+    {
+        "id": "bg_memes_186",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_189",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_191",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_192",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_193",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_194",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_195",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "bg_memes_197",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_198",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_199",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_200",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_201",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_202",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_203",
+        "labels": [
+            "Causal Oversimplification",
+            "Doubt",
+            "Loaded Language",
+            "Obfuscation, Intentional vagueness, Confusion"
+        ]
+    },
+    {
+        "id": "bg_memes_204",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "bg_memes_206",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_219",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_235",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_270",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_278",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_279",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_280",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_312",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_320",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_367",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_memes_370",
+        "labels": [
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_371",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_373",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_374",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_375",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_376",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_377",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_378",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_memes_379",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_381",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_382",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_383",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_384",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_386",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_387",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_388",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_389",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_390",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_391",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_392",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_393",
+        "labels": [
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_394",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_405",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_memes_412",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_416",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_419",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_422",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_427",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_433",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_435",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_436",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_438",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_447",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_448",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_449",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_452",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_460",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_465",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_memes_466",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_468",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_498",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_500",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_memes_507",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_508",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_511",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_524",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_memes_535",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_memes_553",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_memes_559",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_560",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_561",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_563",
+        "labels": []
+    },
+    {
+        "id": "bg_memes_565",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_memes_570",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_memes_571",
+        "labels": [
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_822",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_823",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_824",
+        "labels": [
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_825",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_826",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_827",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_828",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_829",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_830",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_831",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_832",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_833",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_834",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_835",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_836",
+        "labels": [
+            "Appeal to authority",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_838",
+        "labels": [
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_839",
+        "labels": [
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_840",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_841",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_843",
+        "labels": [
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_844",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_845",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_846",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_847",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_848",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_849",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_850",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_851",
+        "labels": [
+            "Doubt",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_852",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_853",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_854",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_855",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_856",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_857",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_858",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_859",
+        "labels": [
+            "Doubt"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_861",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_862",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_863",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_865",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_866",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_867",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_869",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_870",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_871",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_872",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_873",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_874",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_875",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_876",
+        "labels": [
+            "Loaded Language",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_877",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_878",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_879",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_880",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_881",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_882",
+        "labels": [
+            "Loaded Language",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_883",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_884",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_885",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_886",
+        "labels": [
+            "Loaded Language",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_887",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_888",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_889",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_890",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_891",
+        "labels": [
+            "Flag-waving",
+            "Slogans"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_892",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_893",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_894",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_895",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_896",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_897",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_898",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_899",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_900",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_901",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_902",
+        "labels": [
+            "Appeal to authority",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_903",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_904",
+        "labels": [
+            "Appeal to authority"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_905",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_906",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_907",
+        "labels": [
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_908",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_909",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_910",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_911",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_913",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_914",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_915",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_916",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_917",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_918",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_919",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_920",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_921",
+        "labels": [
+            "Doubt"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_922",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_923",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_924",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_925",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_926",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_927",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_928",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_929",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_930",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_931",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_932",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_933",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_934",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_935",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_936",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_937",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_938",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_939",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_940",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_941",
+        "labels": [
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_942",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_943",
+        "labels": [
+            "Appeal to authority",
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_944",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_945",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_946",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_947",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_948",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_949",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_950",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_952",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_953",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_954",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Doubt",
+            "Loaded Language",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_955",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_956",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_957",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_958",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_960",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_961",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_962",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_963",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_964",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_965",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_966",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_967",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_968",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_970",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_971",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_972",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_973",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_974",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_975",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_976",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_977",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_978",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_979",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_980",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_981",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_982",
+        "labels": [
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_984",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_985",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_986",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "bg_mk_memes_987",
+        "labels": []
+    },
+    {
+        "id": "bg_mk_memes_989",
+        "labels": []
+    },
+    {
+        "id": "38",
+        "labels": []
+    },
+    {
+        "id": "39",
+        "labels": [
+            "Appeal to authority",
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "4",
+        "labels": []
+    },
+    {
+        "id": "40",
+        "labels": []
+    },
+    {
+        "id": "41",
+        "labels": []
+    },
+    {
+        "id": "42",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "43",
+        "labels": []
+    },
+    {
+        "id": "44",
+        "labels": []
+    },
+    {
+        "id": "45",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "47",
+        "labels": []
+    },
+    {
+        "id": "48",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "49",
+        "labels": [
+            "Loaded Language",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "5",
+        "labels": []
+    },
+    {
+        "id": "50",
+        "labels": []
+    },
+    {
+        "id": "51",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "52",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "53",
+        "labels": []
+    },
+    {
+        "id": "54",
+        "labels": [
+            "Appeal to authority"
+        ]
+    },
+    {
+        "id": "55",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "56",
+        "labels": []
+    },
+    {
+        "id": "57",
+        "labels": []
+    },
+    {
+        "id": "58",
+        "labels": []
+    },
+    {
+        "id": "59",
+        "labels": []
+    },
+    {
+        "id": "6",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "60",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "61",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "62",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "63",
+        "labels": []
+    },
+    {
+        "id": "1",
+        "labels": []
+    },
+    {
+        "id": "10",
+        "labels": [
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "11",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "12",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "13",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "14",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "15",
+        "labels": []
+    },
+    {
+        "id": "16",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "17",
+        "labels": []
+    },
+    {
+        "id": "18",
+        "labels": []
+    },
+    {
+        "id": "19",
+        "labels": []
+    },
+    {
+        "id": "2",
+        "labels": []
+    },
+    {
+        "id": "20",
+        "labels": [
+            "Loaded Language",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "21",
+        "labels": [
+            "Loaded Language"
+        ]
+    },
+    {
+        "id": "22",
+        "labels": [
+            "Causal Oversimplification",
+            "Doubt",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "23",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Smears"
+        ]
+    },
+    {
+        "id": "24",
+        "labels": []
+    },
+    {
+        "id": "25",
+        "labels": [
+            "Doubt",
+            "Smears",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "26",
+        "labels": []
+    },
+    {
+        "id": "27",
+        "labels": []
+    },
+    {
+        "id": "28",
+        "labels": []
+    },
+    {
+        "id": "29",
+        "labels": [
+            "Repetition",
+            "Smears"
+        ]
+    },
+    {
+        "id": "3",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ]
+    },
+    {
+        "id": "30",
+        "labels": []
+    },
+    {
+        "id": "31",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "32",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Whataboutism"
+        ]
+    },
+    {
+        "id": "33",
+        "labels": []
+    },
+    {
+        "id": "34",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "35",
+        "labels": []
+    },
+    {
+        "id": "36",
+        "labels": []
+    },
+    {
+        "id": "37",
+        "labels": []
+    },
+    {
+        "id": "64",
+        "labels": []
+    },
+    {
+        "id": "65",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ]
+    },
+    {
+        "id": "66",
+        "labels": []
+    },
+    {
+        "id": "67",
+        "labels": []
+    },
+    {
+        "id": "68",
+        "labels": [
+            "Name calling/Labeling"
+        ]
+    },
+    {
+        "id": "69",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "7",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship"
+        ]
+    },
+    {
+        "id": "70",
+        "labels": []
+    },
+    {
+        "id": "71",
+        "labels": [
+            "Loaded Language",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "72",
+        "labels": [
+            "Loaded Language",
+            "Thought-terminating clich\u00e9"
+        ]
+    },
+    {
+        "id": "73",
+        "labels": []
+    },
+    {
+        "id": "74",
+        "labels": []
+    },
+    {
+        "id": "75",
+        "labels": [
+            "Appeal to authority"
+        ]
+    },
+    {
+        "id": "76",
+        "labels": [
+            "Name calling/Labeling",
+            "Repetition"
+        ]
+    },
+    {
+        "id": "8",
+        "labels": [
+            "Repetition"
+        ]
+    },
+    {
+        "id": "9",
+        "labels": []
+    }
+]
